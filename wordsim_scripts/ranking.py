@@ -42,8 +42,7 @@ def correlation(dict1, dict2):
 
 def spearmans_rho(ranked_dict1, ranked_dict2):
   assert len(ranked_dict1) == len(ranked_dict2)
-  if len(ranked_dict1) == 0 or len(ranked_dict2) == 0:
-    return 0.
+  assert len(ranked_dict1) > 1
   x_avg = 1.*sum([val for val in ranked_dict1.values()])/len(ranked_dict1)
   y_avg = 1.*sum([val for val in ranked_dict2.values()])/len(ranked_dict2)
   num, d_x, d_y = (0., 0., 0.)

@@ -21,5 +21,4 @@ def read_word_vectors(filename):
     ''' normalize weight vector '''
     word_vecs[word] /= math.sqrt((word_vecs[word]**2).sum() + 1e-6)        
 
-  sys.stderr.write("Vectors read from: "+filename+" \n")
   return word_vecs

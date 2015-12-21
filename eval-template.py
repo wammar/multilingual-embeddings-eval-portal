@@ -10,12 +10,6 @@ import random
 #import sys
 #import tempfile
 
-# parse/validate arguments
-argparser = argparse.ArgumentParser()
-argparser.add_argument("-eval-data", help="Path to a directory which contains all data files needed to setup the evaluation script.")
-argparser.add_argument("-embeddings-file", help="Path to the embeddings file (lowercased, UTF8-encoded, space-delimited, optional: suffix .gz indicate the file is gzip compressed.)")
-args = argparser.parse_args()
-
 def gzopen(f):
   return gzip.open(f) if f.endswith('.gz') else open(f)
 
@@ -37,9 +31,17 @@ def evaluate(eval_data_dir, embeddings_filename):
   # do the actual evaluation
   pass
 
+
 def main(argv):
-  score = evaluate(args.eval_data, args.embeddings_file)
-  print score
+  # parse/validate arguments
+  argparser = argparse.ArgumentParser()
+  argparser.add_argument("-eval-data", help="Path to a directory which contains all data files needed to setup the evaluation script.")
+  argparser.add_argument("-embeddings-file", help="Path to the embeddings file (lowercased, UTF8-encoded, space-delimited, optional: suffix .gz indicate the file is gzip compressed.)")
+  args = argparser.parse_args()
+  # evaluate
+  score, coverage = evaluate(args.eval_data, args.embeddings_file)
+  # report
+  print 'score={}, coverage={}'.format(score, coverage)
 
 if __name__ == '__main__':
   main(sys.argv)

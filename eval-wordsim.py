@@ -4,6 +4,8 @@ import gzip
 import argparse
 import random
 import io
+import os
+import sys
 from .wordsim_scripts.read_write import read_word_vectors
 from .wordsim_scripts.ranking import *
 
@@ -18,13 +20,13 @@ def get_relevant_word_types(eval_data_filename):
   with io.open(eval_data_filename, encoding='utf8') as eval_data_file:
     for line in eval_data_file:
       word1, word2, similarity = line.strip().split('\t')
-    relevant_word_types.add(word1)
-    relevant_word_types.add(word2)
+      relevant_word_types.add(word1)
+      relevant_word_types.add(word2)
   return relevant_word_types
 
 def get_relevant_embeddings_filename(eval_data_filename, embeddings_filename):
   # We only need embeddings for a subset of word types. Copy the relevant embeddings in a new plain file.
-  relevant_embeddings_filename = "relevant_embeddings/" + random.randint(100000, 999999)
+  relevant_embeddings_filename = os.path.join(os.path.dirname(__file__), 'relevant_embeddings', str(random.randint(100000, 999999)))
   relevant_word_types = set(get_relevant_word_types(eval_data_filename))
   with gzopen(embeddings_filename) as all_embeddings_file:
     with open(relevant_embeddings_filename, mode='w') as relevant_embeddings_file:
@@ -53,7 +55,8 @@ def evaluate(eval_data_dir, embeddings_filename):
   eval_data_filename = '{}/{}'.format(eval_data_dir, get_wordsim_gold_filename()) 
   word_vecs = read_word_vectors(get_relevant_embeddings_filename(eval_data_filename, embeddings_filename))
   manual_dict, auto_dict, coverage = compute_similarities_and_coverage(eval_data_filename, word_vecs)
-  score = spearmans_rho(assign_ranks(manual_dict), assign_ranks(auto_dict))
+  ranked_manual_dict, ranked_auto_dict = assign_ranks(manual_dict), assign_ranks(auto_dict)
+  score = spearmans_rho(ranked_manual_dict, ranked_auto_dict)
   return (score, coverage,)
 
 def main(argv):
