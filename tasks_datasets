@@ -1,0 +1,7 @@
+eval-wordsim.py eval-data/wordsim/EN-MC-30
+eval-wordsim.py eval-data/wordsim/EN-MTurk-287
+eval-qvec.py eval-data/qvec/english-only
+eval-qvec.py eval-data/qvec/english-italian-danish
+eval-word_translation.py eval-data/word_translation/en-fr
+eval-word_translation.py eval-data/word_translation/en-de
+eval-word_translation.py eval-data/word_translation/en-sv
