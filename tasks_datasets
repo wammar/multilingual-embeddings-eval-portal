@@ -2,11 +2,9 @@ eval-wordsim.py eval-data/wordsim/EN-MC-30 test
 eval-wordsim.py eval-data/wordsim/EN-MTurk-287 dev
 eval-qvec.py eval-data/qvec/dev-en dev
 eval-qvec.py eval-data/qvec/test-en test
-eval-qvec.py eval-data/qvec/dev-en-it-da dev
-eval-qvec.py eval-data/qvec/test-en-it-da test
-eval-word_translation.py eval-data/word_translation/dev-en-fr dev
-eval-word_translation.py eval-data/word_translation/dev-en-de dev
-eval-word_translation.py eval-data/word_translation/dev-en-sv dev
-eval-word_translation.py eval-data/word_translation/test-en-fr test
-eval-word_translation.py eval-data/word_translation/test-en-de test
-eval-word_translation.py eval-data/word_translation/test-en-sv test
+eval-qvec.py eval-data/qvec/dev-da dev
+eval-qvec.py eval-data/qvec/test-da test
+eval-qvec.py eval-data/qvec/dev-it dev
+eval-qvec.py eval-data/qvec/test-it test
+eval-qvec.py eval-data/qvec/dev-en-da-it dev
+eval-qvec.py eval-data/qvec/test-en-da-it test
