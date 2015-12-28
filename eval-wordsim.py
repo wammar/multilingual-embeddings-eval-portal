@@ -6,11 +6,9 @@ import random
 import io
 import os
 import sys
-from .wordsim_scripts.read_write import read_word_vectors
+from .read_write import read_word_vectors
+from .read_write import gzopen
 from .wordsim_scripts.ranking import *
-
-def get_wordsim_gold_filename():
-  return 'annotated_word_pairs'
 
 def gzopen(f):
   return gzip.open(f) if f.endswith('.gz') else open(f)
