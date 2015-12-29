@@ -10,6 +10,7 @@ Y = normr(Y);
 
 score = mean(r);
 
-fprintf('QVEC score: %f\n',score);
+%fprintf('QVEC score: %f\n',score);
+fileID = fopen('temp_qvec_cca_result','w');
+fprintf(fileID,'%f',score);
 exit
-

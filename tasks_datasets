@@ -1,5 +1,8 @@
 eval-wordsim.py eval-data/wordsim/EN-MC-30 test
 eval-wordsim.py eval-data/wordsim/EN-MTurk-287 dev
+eval-wordsim.py eval-data/wordsim/DE-IT-MWS353 test
+eval-wordsim.py eval-data/wordsim/EN-IT-MWS353 test
+eval-wordsim.py eval-data/wordsim/EN-DE-MWS353 test
 eval-qvec.py eval-data/qvec/dev-en dev
 eval-qvec.py eval-data/qvec/test-en test
 eval-qvec.py eval-data/qvec/dev-da dev

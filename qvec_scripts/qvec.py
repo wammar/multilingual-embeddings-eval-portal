@@ -13,15 +13,15 @@ import time
 import gzip
 import sys
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--in_vectors", default="vectors/w2v_sg_1b_100.txt")
-parser.add_argument("--in_oracle", default="oracles/semcor_noun_verb.supersenses.en", help="comma-separated list of linguistic annotation files, each is in format word \\t json dictionary of linguistic features")
-parser.add_argument("--distance_metric", default="correlation",
-                    help="correlation, abs_correlation, cosine")
-parser.add_argument("--interpret", action='store_true')
-parser.add_argument("--top", type=int, default=100)
-parser.add_argument("--verbose", action='store_true')
-args = parser.parse_args()
+# parser = argparse.ArgumentParser()
+# parser.add_argument("--in_vectors", default="vectors/w2v_sg_1b_100.txt")
+# parser.add_argument("--in_oracle", default="oracles/semcor_noun_verb.supersenses.en", help="comma-separated list of linguistic annotation files, each is in format word \\t json dictionary of linguistic features")
+# parser.add_argument("--distance_metric", default="correlation",
+#                     help="correlation, abs_correlation, cosine")
+# parser.add_argument("--interpret", action='store_true')
+# parser.add_argument("--top", type=int, default=100)
+# parser.add_argument("--verbose", action='store_true')
+# args = parser.parse_args()
 
 
 class TopK(object):
@@ -74,7 +74,7 @@ class Matrix(object):
 
 class OracleMatrix(Matrix):
   def __init__(self):
-    super().__init__()
+    super(OracleMatrix, self).__init__()
     self.column_names = []
           
   def AddMatrix(self, filename):
@@ -92,11 +92,8 @@ class OracleMatrix(Matrix):
           column_num = len(self.column_names)
           self.column_names.append(feature_name)
           self.number_of_columns += 1
-          if args.verbose:
-            print("  Added new oracle column:", feature_name, "at index", column_num )
         features[column_num] = feature_val
       self.matrix[word] = features
-
 
 class VectorMatrix(Matrix):
   def AddMatrix(self, filename, top_k=0):
@@ -149,7 +146,7 @@ def Similarity(v1, v2, metric="correlation"):
 
 def SimilarityMatrix(vsm_matrix, oracle_matrix, distance_metric="correlation"):
   similarity_matrix = np.zeros((vsm_matrix.number_of_columns, oracle_matrix.number_of_columns))
-  vocabulary = vsm_matrix.matrix.keys() & oracle_matrix.matrix.keys()
+  vocabulary = set(vsm_matrix.matrix.keys()) & set(oracle_matrix.matrix.keys())
   for i in range(vsm_matrix.number_of_columns):
     for j in range(oracle_matrix.number_of_columns):      
       similarity_matrix[i,j] = Similarity(vsm_matrix.Column(i, vocabulary), 
@@ -169,7 +166,7 @@ def AlignColumns(vsm_matrix, oracle_matrix, distance_metric):
     total_score += similarity
   return alignments, total_score
 
-def main():
+def main_obsolete():
   start = time.time()
 
   distance_metric = args.distance_metric
@@ -202,5 +199,5 @@ def main():
           " ".join(top_words)))
   print("Computation time: ", time.time() - start)
 
-if __name__ == '__main__':
-  main()
+#if __name__ == '__main__':
+#  main()

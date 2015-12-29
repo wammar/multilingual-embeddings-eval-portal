@@ -11,13 +11,6 @@ import gzip
 import sys
 import subprocess
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--in_vectors", default="vectors/w2v_sg_1b_100.txt")
-parser.add_argument("--in_oracle", default="oracles/semcor_noun_verb.supersenses.en", help="comma-separated list of linguistic annotation files, each is in format word \\t json dictionary of linguistic features")
-parser.add_argument("--verbose", action='store_true')
-args = parser.parse_args()
-
-
 def GetVocab(file_list, vocab_union=False):
   def file_vocab(filename):
     vocab = set()
@@ -67,8 +60,6 @@ def ReadOracleMatrix(filename, vocab, column_names=None, matrix=None):
       else:
         column_num = len(column_names)
         column_names.append(feature_name)
-        if args.verbose:
-          print("  Added new oracle column:", feature_name, "at index", column_num)
       features[column_num] = feature_val
       if word not in matrix:
         matrix[word] = features
@@ -129,31 +120,31 @@ def WriteMatrix(matrix, filename):
   for row in matrix:
     f_out.write("{}\n".format(" ".join([str(val) for val in row])))
 
-def main():
-  oracle_files = args.in_oracle.strip().split(",")
-  vocab_oracle = GetVocab(oracle_files, vocab_union=True)
-  vocab_vectors = GetVocab([args.in_vectors])
-  vocab = sorted(set(vocab_vectors) & set(vocab_oracle))
-  if len(vocab) < 1000:
-    print("*** Warning: vocabulary size is too small. ***")
-  if args.verbose:
-    print("Vocabulary size:", len(vocab))
+# def main():
+#   oracle_files = args.in_oracle.strip().split(",")
+#   vocab_oracle = GetVocab(oracle_files, vocab_union=True)
+#   vocab_vectors = GetVocab([args.in_vectors])
+#   vocab = sorted(set(vocab_vectors) & set(vocab_oracle))
+#   if len(vocab) < 1000:
+#     print("*** Warning: vocabulary size is too small. ***")
+#   if args.verbose:
+#     print("Vocabulary size:", len(vocab))
   
-  column_names, tmp_matrix = None, None
-  for filename in oracle_files:
-    if args.verbose:
-      print("Loading oracle matrix:", filename)
-    oracle_matrix, column_names, tmp_matrix = ReadOracleMatrix(
-         filename, vocab, column_names, tmp_matrix)
+#   column_names, tmp_matrix = None, None
+#   for filename in oracle_files:
+#     if args.verbose:
+#       print("Loading oracle matrix:", filename)
+#     oracle_matrix, column_names, tmp_matrix = ReadOracleMatrix(
+#          filename, vocab, column_names, tmp_matrix)
 
-  if args.verbose:
-    print("Loading VSM file:", args.in_vectors)
-  vsm_matrix = ReadVectorMatrix(args.in_vectors, vocab)
+#   if args.verbose:
+#     print("Loading VSM file:", args.in_vectors)
+#   vsm_matrix = ReadVectorMatrix(args.in_vectors, vocab)
 
-  WriteMatrix(vsm_matrix, "X")
-  WriteMatrix(oracle_matrix, "Y")
+#   WriteMatrix(vsm_matrix, "X")
+#   WriteMatrix(oracle_matrix, "Y")
 
-  subprocess.call(["matlab -nosplash -nodisplay -r \"cca(\'%s\',\'%s\')\"" % ("X", "Y")],shell=True)
+#   subprocess.call(["matlab -nosplash -nodisplay -r \"cca(\'%s\',\'%s\')\"" % ("X", "Y")],shell=True)
 
-if __name__ == '__main__':
-  main()
+#if __name__ == '__main__':
+#  main()

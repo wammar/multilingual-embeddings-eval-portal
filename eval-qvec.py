@@ -8,18 +8,20 @@ import os
 import sys
 from read_write import read_word_vectors
 from read_write import gzopen
-from wordsim_scripts.ranking import *
+from qvec_scripts.qvec import OracleMatrix, VectorMatrix, AlignColumns 
+#from .qvec_scripts.ranking import *
 
-def gzopen(f):
-  return gzip.open(f) if f.endswith('.gz') else open(f)
+def get_qvec_gold_filename():
+  return 'semantic_classes'
 
 def get_relevant_word_types(eval_data_filename):
   relevant_word_types = set()
   with io.open(eval_data_filename, encoding='utf8') as eval_data_file:
     for line in eval_data_file:
-      word1, word2, similarity = line.strip().split('\t')
-      relevant_word_types.add(word1)
-      relevant_word_types.add(word2)
+      splits = line.strip().split('\t')
+      assert len(splits) > 0
+      word = splits[0]
+      relevant_word_types.add(word)
   return relevant_word_types
 
 def get_relevant_embeddings_filename(eval_data_filename, embeddings_filename):
@@ -35,29 +37,33 @@ def get_relevant_embeddings_filename(eval_data_filename, embeddings_filename):
         relevant_embeddings_file.write(line)
   return relevant_embeddings_filename
 
-def compute_similarities_and_coverage(word_sim_file, word_vecs):
-  manual_dict, auto_dict = ({}, {})
+def compute_coverage(semantic_classes_file, word_vecs):
   not_found, total_size = (0, 0)
-  for line in io.open(word_sim_file, encoding='utf8'):
-    line = line.strip().lower()
-    word1, word2, val = line.strip().split('\t')
-    if word1 in word_vecs and word2 in word_vecs:
-      manual_dict[(word1, word2)] = float(val)
-      auto_dict[(word1, word2)] = cosine_sim(word_vecs[word1], word_vecs[word2])
-    else:
-      not_found += 1
+  for line in io.open(semantic_classes_file, encoding='utf8'):
+    splits = line.strip().lower().split('\t')
+    assert len(splits) > 0
+    word = splits[0]
     total_size += 1    
-  return (manual_dict, auto_dict, 1.0 - (not_found * 1.0 / total_size))
+    if word not in word_vecs:
+      not_found += 1
+  assert total_size > 0
+  return 1.0 - (not_found * 1.0 / total_size)
 
-def get_wordsim_gold_filename():
-  return 'annotated_word_pairs'
+def qvec_wrapper(in_oracle, in_vectors):
+  oracle_matrix = OracleMatrix()
+  oracle_matrix.AddMatrix(in_oracle)
+  vsm_matrix = VectorMatrix()
+  top_k = 0
+  vsm_matrix.AddMatrix(in_vectors, top_k)
+  alignments, score = AlignColumns(vsm_matrix, oracle_matrix, 'correlation')
+  return score
 
 def evaluate(eval_data_dir, embeddings_filename):
-  eval_data_filename = '{}/{}'.format(eval_data_dir, get_wordsim_gold_filename()) 
-  word_vecs = read_word_vectors(get_relevant_embeddings_filename(eval_data_filename, embeddings_filename))
-  manual_dict, auto_dict, coverage = compute_similarities_and_coverage(eval_data_filename, word_vecs)
-  ranked_manual_dict, ranked_auto_dict = assign_ranks(manual_dict), assign_ranks(auto_dict)
-  score = spearmans_rho(ranked_manual_dict, ranked_auto_dict)
+  eval_data_filename = '{}/{}'.format(eval_data_dir, get_qvec_gold_filename())
+  relevant_embeddings_filename = get_relevant_embeddings_filename(eval_data_filename, embeddings_filename)
+  word_vecs = read_word_vectors(relevant_embeddings_filename)
+  coverage = compute_coverage(eval_data_filename, word_vecs)
+  score = qvec_wrapper(eval_data_filename, relevant_embeddings_filename)
   return (score, coverage,)
 
 def main(argv):
