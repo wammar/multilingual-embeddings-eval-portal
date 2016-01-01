@@ -1,0 +1,21 @@
+index 550-700 700-850 550-700 700-850 
+values = $ 91.36 $ 89.42 $ 88.36 $ 85.74 
+change = 0.24 0.04 0.77 0.27 
+current Index reflects the Equivalent of * * 63,355 hd of cattle . 
+equivalent : $ 92.91 $ 90.97 $ 89.91 $ 87.29 2,520 Hd 
+equivalent : $ 89.80 $ 87.86 $ 86.80 $ 84.18 60,835 Hd * 
+five Area Direct cattle Data : grade % breakdown 
+weight Price Head : ( previous week ) 
+live Str : 1181 $ 64.08 1,525 : Lht Ch 24.47 % 
+live HFR : 1115 $ 64.00 508 : Hvy Ch 28.24 % 
+Drsd Str : 1247 $ 104.23 400 : Lht se 21.11 % 
+Drsd HFR : 1180 $ 104.12 87 : Hvy se 26.18 % 
+boxed Beef Cutouts - Drop Credit : $ 9.62 
+Ch 550-700 # $ 96.55 steer dressing % : 63.50 % 
+Ch 700-850 # $ 95.61 heifer dressing % : 63.00 % 
+se 550-700 # $ 93.55 Processing Cost : 
+se 700-850 # $ 91.93 550-700 # carcass : $ 6.75 
+current Lds : 179.0 700-850 # carcass : $ 7.75 
+previous Lds : 350.0 slaughter Cost : $ 28.00 
+* reflects current and previous day &apos;s total boxed beef load count multiplied by 115 , the average head per boxed beef load . 
+note : index reflects simple average of live and box equivalents . 

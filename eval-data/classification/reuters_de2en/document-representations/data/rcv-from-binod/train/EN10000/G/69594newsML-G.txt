@@ -1,0 +1,20 @@
+Hungarian first division soccer 
+results and standings from weekend : 
+Debrecen 3 Csepel 0 
+Ferencvaros 2 Haladas 0 
+Siofok 0 Bekescsaba 0 
+Vasas 1 Videoton 0 
+Standings ( tabulated under played , won , drawn , lost , goals 
+for , goals against , points ) : 
+Vasas 8 6 1 1 11 3 19 
+Debrecen 8 5 1 2 19 9 16 
+Videoton 8 3 3 2 11 7 12 
+Haladas 8 3 2 3 8 8 11 
+Kispest 8 3 2 3 12 14 11 
+Gyor 7 3 1 3 6 11 10 
+Bekescsaba 8 2 2 4 9 10 8 
+Csepel 8 - 5 3 6 13 5 
+Pecs 8 1 1 6 6 17 4 
+Siofok 8 1 1 6 3 14 4 
+VAC 7 1 - 6 9 16 3 
+note : the Gyor-Vac match is scheduled for Monday , September 

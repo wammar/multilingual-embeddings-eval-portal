@@ -1,0 +1,20 @@
+Karachi 100-share index 1,489.19 1,489.19 
+call money rate 20.0 PCT 1.50 PCT 
+gold ( Karachi ) RS / 10 GM 5,285 5,285 
+silver .999 ( RS / kg ) 7,286 7,286 
+growth in : 
+population ( millions ) 131.45 127.75 
+per capita income ( market prices ) Rs4,828 * * Rs4,697 
+external debt $ 28.6bln * $ 27.07bln 
+debt service ratio 52.2 * 55.7 
+trade balance ( July / June ) - $ 3.666bln * * - $ 2.537bln 
+exports $ 8.3bln * * $ 7.759bln 
+imports $ 11.966bln * * $ 10.296bln 
+current a / c balance ( July / June ) - $ 4.244bln * * - $ 2.163bln 
+industrial production ( 1980-81 = 100 ) 245.7 * 238.3 
+index ( PCT growth ) 6.1 2.9 
+agricultural production ( 1959 = 100 ) 167 152 
+index ( PCT growth ) 6.74 4.67 
+* = estimate 
+* * = provisional 
+-- Karachi newsroom 9221-5685192 

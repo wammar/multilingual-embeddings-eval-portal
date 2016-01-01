@@ -1,0 +1,12 @@
+the Office for National Statistics released following seasonally adjusted UK non-EU Trade data- 
+trade balance -563 -425 ( -335 ) 
+oil exports 223 241 ( 242 ) 
+oil imports 324 408 ( 410 ) 
+import volume index ( base 1990 ) 153.8 157.3 ( 156.6 ) 
+export volume index ( base 1990 ) 146.9 149.7 ( 149.3 ) 
+latest qtr on pvs qtr ( imports ) 3.0 % 1.0 % ( 0.5 % ) 
+latest qtr on yr-ago qtr ( imps ) 7.0 % 4.0 % ( 4.0 % ) 
+latest qtr on pvs qtr ( exports ) 4.0 % 4.0 % ( 4.0 % ) 
+latest qtr on yr-ago qtr ( exps ) 9.5 % 9.0 % ( 9.0 % ) 
+balance ( million stg ) -310 -325 ( -259 ) 
+latest qtr on pvs qtr ( exports ) 3.5 % 3.5 % ( 3.5 % ) 

@@ -1,0 +1,28 @@
+results of Israel first 
+division soccer matches played over the weekend : 
+Bnei Yehuda 1 Zafririm Holon 0 
+Betar Jerusalem 5 Hapoel Taibe 0 
+Maccabi Tel Aviv 2 Hapoel Petah Tikva 1 
+Maccabi Herzliya 1 Maccabi Haifa 2 
+Hapoel Beersheba 2 Hapoel Kfar Sava 1 
+Hapoel Haifa 2 Hapoel Tel Aviv 0 
+Maccabi Petah Tikva 1 Hapoel Jerusalem 1 
+Hapoel Beit She &apos;an 1 Ironi Rishon Lezion 3 
+Standings ( tabulate under played , won , drawn , lost , goals 
+for , against , points ) : 
+Betar Jerusalem 23 18 4 1 51 12 58 
+Hapoel Beersheba 23 16 2 5 37 19 50 
+Hapoel Petah Tikva 22 13 6 3 39 22 45 
+Maccabi Tel Aviv 23 13 5 5 42 23 44 
+Maccabi Petah Tikva 23 11 6 6 29 20 39 
+Bnei Yehuda 23 9 6 8 23 26 33 
+Hapoel Haifa 23 9 5 9 27 24 32 
+Hapoel Kfar Sava 23 8 6 9 24 25 30 
+Maccabi Haifa 23 7 8 8 26 26 29 
+10.Hapoel Jerusalem 23 8 5 10 24 32 29 
+11.Hapoel Beit She &apos;an 23 7 5 11 20 25 26 
+12.Ironi Rishon Lezion 23 6 6 11 24 37 24 
+13.Maccabi Herzliya 22 7 2 13 13 21 23 
+14.Zafririm Holon 23 3 9 11 14 32 18 
+15.Hapoel Tel Aviv 23 3 8 12 11 23 17 
+16.Hapoel Taibe 23 3 1 20 13 50 10 

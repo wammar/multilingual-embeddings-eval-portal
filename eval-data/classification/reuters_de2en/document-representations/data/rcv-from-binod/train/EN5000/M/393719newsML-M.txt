@@ -1,0 +1,11 @@
+the tenge closed at 75.5000 per dollar on the Kazakhstan Currency Exchange on Friday after 75.1500 on Thursday . 
+high 75.1550 75.1000 
+low 75.5000 75.7400 
+open 75.1550 75.1000 
+close 75.5000 75.1500 
+volume ( $ million ) 2.960 16.625 
+high 44.9000 44.6500 
+low 44.9000 44.6500 
+open 44.9000 44.6500 
+close 44.9000 44.6500 
+--Almaty Newsroom , + 7 3272 509410 

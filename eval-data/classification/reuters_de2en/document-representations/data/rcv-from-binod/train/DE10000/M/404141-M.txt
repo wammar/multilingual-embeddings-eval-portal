@@ -1,0 +1,19 @@
+ab dem 28.7.97 ( Montag ) ändern sich die Abrufcodes für 
+die REUTERS-Börsenberichte . 
+die Codes für Berichte in 
+deutscher Sprache erhalten dann neben der Bezeichnung für 
+( Codes mit F9 abschliessen . 
+so bedeuten zum Beispiel : 
+.S Schweizer Börse in englisch 
+.SDE Schweizer Börse in deutsch 
+.PA Pariser Börse in englisch 
+.PADE Pariser Börse auf deutsch 
+.N Wall Street in englisch 
+.NDE Wall Street auf deutsch 
+weitere Codes sind etwa .TDE ; .ASDE ; .MIDE. 
+ein vollständiges Verzeichnis der Abrufcodes finden Sie 
+falls Sie Fragen haben , rufen Sie bitte den Reuters 
+Helpdesk oder direkt die Redaktion ( 01 - 631 7342 ) in Zürich 
+an . 
+--- Albert Schmieder , Editor Swiss Investor News . 
+( C ) Reuters Limited 1997 . 

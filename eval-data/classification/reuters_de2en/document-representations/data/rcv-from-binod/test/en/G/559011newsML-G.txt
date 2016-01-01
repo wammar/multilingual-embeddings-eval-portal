@@ -1,0 +1,10 @@
+results of Finnish first division 
+soccer matches played at the weekend : 
+inter 2 Jaro 0 
+Standings ( tabulate under played , won , drawn , lost , goals 
+for , goals against , points ) : 
+RoPs 2 1 0 1 4 3 3 
+inter 3 1 0 2 3 4 3 
+Jaro 2 1 0 1 2 3 3 
+MyPa 1 0 1 0 0 0 1 
+FinnPa 2 0 1 1 4 6 1 

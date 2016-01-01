@@ -1,0 +1,8 @@
+figures ( in percent ) 
+Month-on-month change + 0.3 + 0.3 + 0.5 
+year-on-year change + 3.1 + 3.3 + 0.7 
+index ( base 1979 ) 269.3 268.6 261.3 
+note -- Ten economists polled by Reuters forecast a year-on-year rise in March of 3.15 percent and for inflation to increase by an average 0.35 percent month-on-month . 
+SSB attributed the month-on-month rise mainly to higher property rental prices and increased prices for clothes , shoes , food and gasoline . 
+countering the increase were lower prices for electricity , paraffin and heating oil , SSB said . 
+--Oslo newsroom + 47 22 42 50 41 

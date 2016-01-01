@@ -1,0 +1,36 @@
+Sunday , August 10 ( heats from 0000 , finals 0830 ) : men &apos;s 800 metres freestyle . 
+men &apos;s 200 freestyle . 
+women &apos;s 200 freestyle . 
+men &apos;s 100 backstroke . 
+women &apos;s 100 backstroke . 
+men &apos;s 200 butterfly . 
+women &apos;s 200 butterfly . 
+women &apos;s 1,500 freestyle . 
+men &apos;s 25-km open water race . 
+women &apos;s 25-km open water race . 
+Monday , August 11 ( heats 0000 , finals 0830 ) : men &apos;s 100 freestyle . 
+women &apos;s 100 freestyle . 
+men &apos;s 100 breaststroke . 
+women &apos;s 100 breaststoke . 
+men &apos;s 400 individual medley . 
+women &apos;s 400 individual medley . 
+men &apos;s 4x200 freestyle relay . 
+women &apos;s 4x200 freestyle relay . 
+Tuesday , August 12 ( heats 0000 , finals 0830 ) : men &apos;s 400 freestyle . 
+women &apos;s 400 freestyle . 
+men &apos;s 100 butterfly . 
+women &apos;s 100 butterfly . 
+men &apos;s 200 backstroke . 
+women &apos;s 200 backstroke . 
+men &apos;s 4x100 freestyle relay . 
+women &apos;s 4x100 freestyle relay . 
+Wednesday , August 13 ( heats 0000 , finals 0800 ) : women &apos;s 800 freestyle . 
+men &apos;s 200 individual medley . 
+women &apos;s 200 individual medley . 
+men &apos;s 50 freestyle . 
+women &apos;s 50 freestyle . 
+men &apos;s 200 breaststroke . 
+women &apos;s 200 breaststroke . 
+men &apos;s 1,500 freestyle . 
+men &apos;s 4x100 medley relay . 
+women &apos;s 4x100 medley relay . 

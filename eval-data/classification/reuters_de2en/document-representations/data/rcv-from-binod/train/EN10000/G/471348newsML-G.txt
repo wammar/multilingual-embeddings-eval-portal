@@ -1,0 +1,12 @@
+results of soccer matches 
+played in the German first division on Thursday : 
+Duisburg 1 Hamburg 1 
+St Pauli 0 Borussia Dortmund 1 
+VfB Stuttgart 1 1860 Munich 1 
+Bochum 2 Cologne 2 
+playing on Saturday : 
+Bayern Munich v Werder Bremen 
+Arminia Bielefeld v Karlsruhe 
+Bayer Leverkusen v Schalke 
+Hansa Rostock v Freiburg 
+Borussia Moenchengladbach v Fortuna Duesseldorf 

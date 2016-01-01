@@ -1,0 +1,40 @@
+indicative market rates 
+* Call money : ( 3-day ) 4.25-4.50 PCT 
+* Commercial paper : P1 + ( 90 days ) 8.75-10.00 PCT 
+* Commercial paper : P1 ( 90 days ) 9.50-11.50 PCT 
+* Commercial paper : P1 + ( 30 days ) 7.25-8.25 PCT 
+* Commercial paper : P1 ( 30 days ) 8.00-10.0 PCT 
+* Certificate of deposit : 90 days 7.75-9.75 PCT 
+* Certificate of deposit : 365 days 10.00-10.50 PCT 
+* Treasury bills : 
+91 day t-bill 6.90-6.60 PCT 
+364 day t-bill 8.20-7.90 PCT 
+T-bill maturing on 15 / 08 / 97 5.00-4.50 PCT 
+T-bill maturing on 29 / 08 / 97 5.50-5.00 PCT 
+T-bill maturing on 06 / 09 / 97 6.00-5.50 PCT 
+T-bill maturing on 26 / 09 / 97 6.25-5.75 PCT 
+T-bill maturing on 29 / 09 / 97 6.50-6.00 PCT 
+T-bill maturing on 10 / 10 / 97 6.60-6.30 PCT 
+T-bill maturing on 18 / 10 / 97 6.80-6.30 PCT 
+T-bill maturing on 25 / 10 / 97 6.80-6.35 PCT 
+T-bill maturing on 01 / 11 / 97 6.90-6.60 PCT 
+T-bill maturing on 10 / 04 / 98 7.75-7.45 PCT 
+T-bill maturing on 24 / 04 / 98 7.80-7.60 PCT 
+T-bill maturing on 05 / 06 / 98 7.85-7.60 PCT 
+T-bill maturing on 19 / 06 / 98 7.90-7.65 PCT 
+T-bill maturing on 03 / 07 / 98 7.95-7.75 PCT 
+T-bill maturing on 18 / 07 / 98 8.10-7.85 PCT 
+T-bill maturing on 31 / 07 / 98 8.20-7.90 PCT 
+inter-bank term money quotes : 
+1 Month 6.50-7.25 PCT 
+2 month 7.50-8.00 PCT 
+3 month 8.00-9.00 PCT 
+6 month 9.50-10.00 PCT 
+1 year 10.25-10.75 PCT 
+Inter-corporate deposits : 
+( grade ) 
+sale repurchase Secondary Market 
+price price price 
+Mastergain 92 13.99 13.29 
+* These rates are based on a consensus of rates offered by leading banks . 
+* To contribute to this daily composite rate , please telephone Money Desk on 022 265-9000 . 

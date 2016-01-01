@@ -1,0 +1,63 @@
+latest Australian monthly economic data . 
+period Latest Prev1 Prev2 Next 
+balance of Payments ( s / adj , A $ million , m / m , current prices ) 
+trade Balance Oct -21 -15 + 196 Jan 06 
+net Income Balance Oct -1,910 -1,759 -1,748 Jan 06 
+exports ( m / m PCT ) Oct + 1.0 -3.0 + 2.5 Jan 06 
+exports ( y / y PCT ) Oct + 5.1 + 2.9 + 4.1 Jan 06 
+rural ( m / m PCT ) Oct -4.0 -7.0 + 8.4 Jan 06 
+non-rural ( m / m PCT ) Oct + 3.0 -1.0 + 0.2 Jan 06 
+merchandise Imports ( s / adj , m / m PCT ) 
+total Oct + 1.3 + 0.5 + 1.2 Dec 18 
+total ( y / y PCT ) Oct + 3.8 + 2.8 -1.6 Dec 18 
+consumer Oct -1.0 -4.7 + 7.9 Dec 18 
+capital Oct -7.0 + 4.3 + 4.3 Dec 18 
+intermediate Oct + 7.0 + 1.7 -3.8 Dec 18 
+labour Force ( s / adj ) 
+employment ( 000 ) Oct + 25,5 -34.1 + 37.9 Dec 12 
+- full time ( 000 ) Oct + 9.8 -30.4 + 11.2 Dec 12 
+- part time ( 000 ) Oct + 15.8 -3.7 + 26.7 Dec 12 
+unemployment ( PCT ) Oct 8.8 8.7 8.8 Dec 12 
+participation rate Oct 63.6 63.5 63.9 Dec 12 
+( s / adj , m / m PCT ) Nov + 2.1 -1.0 -0.4 Jan 13 
+( s / adj , y / y PCT ) Nov -11.5 -12.2 -14.3 Dec 13 
+( trend , m / m PCT ) Nov -0.8 -0.7 -1.0 Dec 13 
+building approvals 
+( s / adj , m / m PCT ) Oct + 12.8 -8.6 + 1.6 Jan 07 
+( s / adj , y / y PCT ) Oct + 11.2 -9.5 + 2.2 Jan 07 
+( trend , m / m PCT ) Oct + 0.8 + 0.8 + 0.6 Jan 07 
+housing finance for owner occupation ( PCT ) 
+total ( s / adj , m / m ) Sep + 5.8 -0.5 + 15.4 Dec 11 
+total ( s / adj , y / y ) Sep + 15.4 + 9.6 + 7.3 Dec 11 
+total ( trend , m / m ) Sep + 2.8 + 2.5 + 2.0 Dec 11 
+retail Trade ( current prices ) 
+total ( s / adj , m / m ) Oct + 1.4 -3.7 + 1.1 Jan 07 
+total ( s / adj , y / y ) Oct + 2.9 + 2.0 + 5.0 Jan 07 
+total ( trend , m / m ) Oct -0.2 -0.1 0.0 Jan 07 
+new Motor Vehicles registrations 
+total ( s / adj , m / m ) Oct -5.8 + 0.2 + 7.0 Dec 24 
+total ( s / adj , y / y ) Oct -1.8 + 5.7 + 6.5 Dec 24 
+total ( trend , m / m ) Oct -1.3 -0.3 -0.5 Dec 24 
+Westpac / Melbourne Institute Consumer sentiment 
+index level Nov 109.8 101.4 105.5 Dec 11 
+PCT change ( m / m ) Nov + 8.3 -3.9 -1.2 Dec 11 
+points change ( m / m ) Nov + 8.4 -4.1 -1.3 Dec 11 
+Westpac / Melbourne Institute leading Index 
+PCT change ( m / m ) Sep -0.3 + 0.1 + 1.2 Dec 17 
+points change ( m / m ) Sep -0.4 + 0.1 + 1.7 Dec 17 
+private Sector Credit 
+credit ( m / m , s / adj ) Sep + 0.7 + 0.5 + 0.3 n / a 
+credit ( y / y , s / adj ) Sep + 11.3 + 11.4 + 12.6 n / a 
+manufacturing input Prices 
+price Index ( m / m ) Sep -0.5 -0.1 -1.3 Dec 16 
+price Index ( y / y ) Sep -4.1 -4.5 -5.6 Dec 16 
+manufacturing output Prices 
+price Index ( m / m ) Sep + 0.1 + 0.2 + 0.1 Dec 12 
+price Index ( y / y ) Sep + 0.5 0.0 -0.2 Dec 12 
+export Prices 
+price Index ( m / m ) Sep -1.6 + 0.8 -0.1 Dec 16 
+price Index ( y / y ) Sep -4.4 -5.0 -7.6 Dec 16 
+import Prices 
+price Index ( m / m ) Sep + 0.5 + 0.5 -0.3 Dec 16 
+price Index ( y / y ) Sep -6.4 -7.1 -9.7 Dec 16 
+-- Sydney Newsroom 61-2 9373-1800 ( fax 61-2 9262-4727 ) 

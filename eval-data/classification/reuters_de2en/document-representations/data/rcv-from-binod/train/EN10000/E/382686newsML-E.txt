@@ -1,0 +1,53 @@
+* Inflation ( % ) 
+monthly year-on-year 
+* Foreign Trade ( Billion $ ) 
+monthly 
+exports 1.804 1.728 1.773 2.396 21.635 18.106 15.3 
+imports 3.323 3.770 3.583 4.318 35.709 23.270 29.4 
+balance -1.211 -2.042 -1.810 -1.922 -14.074 -5.163 -14.0 
+* breakdown of Exports ( Million $ ) 
+6 / 96 % Share % rise Jan-Dec95 % Share % rise 
+investment Goods 297 16.5 -3.6 3.517 16.3 12.0 
+consumables 1,052 58.3 1.7 12.574 58.1 28.9 
+raw materials 455 25.2 -7.7 5.543 25.6 6.4 
+* breakdown of Imports ( Million $ ) 
+6 / 96 % Share % rise Jan-Dec95 % Share % rise 
+investment Goods 1,007 30.3 11.2 10,488 29.4 52.1 
+consumables 502 15.1 43.5 4,414 12.4 58.8 
+raw Materials 1,814 54.6 1.2 20,806 58.3 53.0 
+* Balance of Payments ( Million $ ) 
+monthly 
+total Bank Credits 3,244.389 3,197.538 2,949.147 1,374.114 
+-Retail banks &apos; credits 3,047.411 3,002.446 2,775.503 1,297.004 
+-Foreign currency 1,330.830 1,306.433 1,246.589 483.433 
+-State Banks &apos; Credits 1,147.439 1,135.524 983.725 575.513 
+-Priv.Banks &apos; Credits 1,822.148 1,790.640 1,716.368 684.050 
+-Foreign Banks &apos; Credits 77.824 76.282 75.410 37.441 
+-Investment Banks &apos; Cred . 
+total deposits 2,724.591 2,716.176 2,605.574 1,119.755 
+-State Retail Banks 1,688.666 1,668.302 1,555.322 682.005 
+-Private Banks 1,015.844 1,025.867 1,028.997 427.283 
+-Foreign Banks 20.081 22.007 21.255 10.467 
+* Industrial Production Growth Rates ( % , Base 1992 ) 
+* Industrial Capacity utilizations ( % ) 
+* Budget ( Consolidated , cumulative figures ) 
+expenditures 3,951.0 3,138.1 2,798.7 1,720.6 902.5 
+revenues 2,736.0 2,394.3 2,105.3 1,404.0 751.6 
+budget Balance-1,215.0 -744.7 -693.3 -316.6 -150.9 
+Nov 96 Oct96 Sept96 1995 1994 
+cash Balance -987.2 -913.4 -807.1 -294.3 -150.4 
+financing 987.2 913.4 807.1 294.3 150.4 
+net Domestic Borr . 
+net Foreign Borr . 
+short-term Borr . 
+others 14.0 -75.8 -43.8 -2.1 0.4 
+* Foreign Debt Stock ( Billion $ ) ( * = Provisional ) 
+total Debt 78.042 73.278 65.601 67.356 55.592 
+* International Currency Reserves ( Billion $ ) 
+INT . 
+reserves 26.759 26.877 27.776 23.942 
+commercial Banks 9.063 9.136 9.902 10.169 
+population ( 1990 census ) 56.5 million 
+( 1996 estimated ) 61.4 million 
+* Credit Ratings 
+Moody &apos;s Ba3 

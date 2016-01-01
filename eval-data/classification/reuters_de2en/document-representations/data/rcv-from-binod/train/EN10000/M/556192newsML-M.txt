@@ -1,0 +1,18 @@
+grain and soybean receipts and shipments , in bushels , at delivery locations for the previous trading day , according to the Chicago Board of Trade- 
+receipts Shipments 
+wheat 
+Chicago 0 879 
+St. Louis 11,127 0 
+Toledo 4,335 0 
+corn 
+Chicago 151,241 1,847 
+St. Louis 91,950 0 
+Toledo 78,907 38,771 
+oats 
+Chicago 0 0 
+Minneapolis 78,415 97,070 
+soybeans 
+Chicago 9,394 0 
+St. Louis 70,493 43,897 
+Toledo 23,102 0 
+( ( Chicago Newsdesk 312-408-8720 ) ) 

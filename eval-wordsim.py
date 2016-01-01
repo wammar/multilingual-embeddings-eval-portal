@@ -24,7 +24,7 @@ def get_relevant_word_types(eval_data_filename):
 
 def get_relevant_embeddings_filename(eval_data_filename, embeddings_filename):
   # We only need embeddings for a subset of word types. Copy the relevant embeddings in a new plain file.
-  relevant_embeddings_filename = os.path.join(os.path.dirname(__file__), 'relevant_embeddings', str(random.randint(100000, 999999)))
+  relevant_embeddings_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
   relevant_word_types = set(get_relevant_word_types(eval_data_filename))
   with gzopen(embeddings_filename) as all_embeddings_file:
     with open(relevant_embeddings_filename, mode='w') as relevant_embeddings_file:

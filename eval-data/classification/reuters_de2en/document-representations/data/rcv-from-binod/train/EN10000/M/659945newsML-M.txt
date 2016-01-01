@@ -1,0 +1,4 @@
+date notified Competitive Min rate Yield to Total 
+Mln RS Bids / Accepted rupees maturity ( a ) ( b ) 
+( PCT ) ( million rupees ) 
+* ( b ) total , of which ( a ) competitive bids 

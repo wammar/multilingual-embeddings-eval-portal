@@ -1,0 +1,14 @@
+( approx . 
+$ Price 99.777 ) 
+( approx . 
+$ Price 99.48 ) 
+( approx . 
+$ Price 99.408 ) 
+( approx . 
+$ Price 99.34 ) 
+this issue is book entry . 
+delivery : 09 / 04 / 1997 ( expected ) 
+initial trade : 08 / 04 / 1997 
+first Southwest Company 
+Rauscher Pierce Refsnes , Inc . 
+--U.S. Municipal Desk , 212-859-1650 

@@ -1,0 +1,40 @@
+latest Australian quarterly 
+economic data . 
+period Latest Prev1 Prev2 Next 
+gross Domestic Product ( s / adj , constant price , percent ) 
+consumer Price Index ( s / adj , PCT ) 
+underlying ( q / q ) Q2 + 0.3 + 0.4 + 0.4 Oct 22 
+underlying ( y / y ) Q2 + 1.7 + 2.1 + 2.1 Oct 22 
+average Weekly Ordinary Time earnings ( s / adj , PCT ) 
+private sect ( q / q ) FebQ + 1.3 + 0.7 + 0.6 Aug 14 
+private sect ( y / y ) FebQ + 3.6 + 2.8 + 3.4 Aug 14 
+public sect ( q / q ) FebQ + 0.7 + 2.2 + 2.5 Aug 14 
+public sect ( y / y ) FebQ + 7.1 + 7.6 + 5.5 Aug 14 
+public sect ( q / q ) FebQ + 0.7 + 0.7 + 2.2 Aug 14 
+public sect ( y / y ) FebQ + 7.1 + 7.1 + 7.6 Aug 14 
+Federal Enterprise Bargaining Agreements ( annual terms , PCT ) 
+all qtr annualised Q1 + 4.7 + 4.4 + 4.8 Aug n / a 
+all current Q1 + 4.8 + 4.6 + 4.6 Aug n / a 
+Priv qtr annualised Q1 + 4.8 + 4.4 + 5.3 Aug n / a 
+Priv all current Q1 + 4.9 + 4.8 + 4.8 Aug n / a 
+pub qtr annualised Q1 + 4.3 + 4.3 + 4.0 Aug n / a 
+pub all current Q1 + 4.8 + 4.4 + 4.3 Aug n / a 
+company profits ( pre-tax , interest , depreciation ) 
+private New Capital Expenditure ( s / adj , q / q , constant price ) 
+total Q1 + 6.5 -1.6 + 0.1 Aug 28 
+total ( y / y ) Q1 + 18.6 + 20.4 + 24.9 Aug 28 
+build &amp; Struct Q1 + 8.7 -4.0 -5.1 Aug 28 
+equip , plant &amp; mach Q1 + 5.5 -0.4 + 2.8 Aug 28 
+gross external debt Q1 250.5 245.9 240.7 Sep 01 
+net external debt Q1 199.9 199.2 195.8 Sep 01 
+retail Trade ( s / adj , constant price ) 
+total ( q / q ) Q2 -0.5 + 2.2 -1.3 Nov 03 
+total ( y / y ) Q2 + 1.0 + 1.1 + 0.1 Nov 03 
+trend ( q / q ) Q2 + 0.4 + 0.4 + 0.2 Nov 03 
+business Stocks ( inventories ) ( constant prices , PCT , s / adj ) 
+total ( q / q PCT ) Q1 -2.1 + 1.0 + 1.5 Sep 01 
+total ( y / y PCT ) Q1 + 1.8 + 4.8 + 4.1 Sep 01 
+dwelling Units commencements ( s / adj , PCT ) 
+total ( q / q ) Q1 + 4.6 + 8.3 -6.0 Sep 11 
+total ( y / y ) Q1 + 2.5 + 4.4 -11.4 Sep 11 
+-- Sydney Newsroom 61-2 9373-1800 fax 61-2 9262-4727 

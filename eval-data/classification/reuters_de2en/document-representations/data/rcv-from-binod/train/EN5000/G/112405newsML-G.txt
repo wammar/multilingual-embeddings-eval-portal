@@ -1,0 +1,30 @@
+results of Yugoslav league 
+soccer matches played on Saturday : 
+Rad 1 Becej 2 
+Proleter 1 Cukaricki 0 
+Zemun 2 Borac 1 
+red Star 3 Vojvodina 1 
+Standings ( tabulated under played , won , drawn , lost , goals 
+for , against , points ) : 
+Partizan 9 8 1 0 25 6 25 
+red Star 9 7 1 1 18 8 22 
+Vojvodina 9 4 3 2 13 9 15 
+Becej 9 4 3 2 11 12 15 
+Zemun 9 3 4 2 10 9 13 
+Rad 9 3 2 4 11 8 11 
+Proleter 9 3 1 5 12 15 10 
+Hajduk 9 2 3 4 8 8 9 
+Cukaricki 9 3 0 6 11 16 9 
+Buducnost 9 2 1 6 8 17 7 
+Borac 9 1 0 8 5 23 3 
+Spartak 1 Zeleznik 1 
+Radnicki 2 Rudar 0 
+Standings : 
+Obilic 9 8 1 0 21 3 25 
+Loznica 9 6 0 3 18 8 18 
+Radnicki 9 4 3 2 13 9 15 
+Sutjeska 9 5 0 4 12 13 15 
+Rudar 9 4 1 4 10 11 13 
+Zeleznik 9 4 1 4 10 11 13 
+Spartak 9 2 2 5 9 17 8 
+Sloboda 9 1 3 5 9 14 6 

@@ -1,0 +1,9 @@
+the following are some main technical indicators for Greek shares based on closing price data of April 10 . 
+5-day Moving average 1423.99 
+14-day Moving average 1360.26 
+30-day Moving average 1326.20 
+200-day Moving average 1025.51 
+exponential Moving average ( smoothing factor = 0.2 ) 1396.32 
+exponential Moving average ( smoothing factor = 0.4 ) 1419.97 
+30-day momentum 11.37 
+--Dimitris Kontogiannis , Athens Newsroom + 301 3311812-4 

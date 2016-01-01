@@ -1,0 +1,24 @@
+result of an Portuguese first division soccer match on Saturday : 
+Benfica 1 Sporting 0 
+playing Sunday : 
+Belenenses v Uniao Leiria 
+Setubal v Chaves 
+Gil Vicente v Salgueiros 
+Braga v Estrela Amadora 
+Porto v Espinho 
+Leca v Farense 
+Maritimo v Rio Ave 
+playing Monday : 
+Guimaraes v Boavista 
+Porto 24 19 3 2 56 16 60 
+sporting 25 16 5 4 40 14 53 
+Benfica 25 14 5 6 42 20 47 
+Braga 24 11 7 6 32 34 40 
+Guimaraes 24 11 5 8 39 32 38 
+Salgueiros 24 9 8 7 34 34 35 
+Chaves 24 9 6 9 32 38 33 
+Estrela Amadora 24 8 9 7 28 26 33 
+Belenenses 24 8 7 9 31 40 31 
+16.Rio Ave 24 5 6 13 26 35 21 
+17.Uniao Leiria 24 5 5 14 20 38 20 
+18.Gil Vicente 24 2 6 16 23 46 12 

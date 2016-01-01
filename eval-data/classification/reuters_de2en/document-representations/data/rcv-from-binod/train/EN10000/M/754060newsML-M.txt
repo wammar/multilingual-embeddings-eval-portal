@@ -1,0 +1,15 @@
+close Change PCT change Open Pvs close 
+at 16 : 06 At 10 : 05 At 16 : 05 
+FIM-06 bond 5.74 PCT -1.0 BP - 5.75 PCT 5.75 PCT 
+FIM-04 bond 5.35 PCT -1.0 BP - 5.35 PCT 5.36 PCT 
+FIM-99 bond 3.76 PCT 1.0 BP - 3.76 PCT 3.75 PCT 
+German Bund 5.5 BP -1.7 BP - 5.5 BP 5.5 BP 
+gap over Germany 24.6 BP 0.7 BP - 25.6 BP 23.9 BP 
+one-year spot rate 3.62 PCT 2.2 BP - 3.62 PCT 3.60 PCT 
+1-yr to longest yld 212 BP -3.2 BP - 213 BP 215 BP 
+prices 
+FIM-06 bond 110.10 + 0.07 + 0.001 PCT 110.02 110.03 
+FIM-04 bond 122.60 + 0.06 + 0.000 PCT 122.60 122.54 
+FIM-99 bond 110.06 -0.03 -0.000 PCT 110.06 110.09 
+German Bund 103.73 + 0.13 + 0.001 PCT 103.73 103.60 
+- All comparisons versus pvs close 

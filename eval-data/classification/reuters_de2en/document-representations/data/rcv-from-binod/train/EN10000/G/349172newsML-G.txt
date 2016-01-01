@@ -1,0 +1,26 @@
+Spanish first division result 
+on Saturday : 
+Celta Vigo 1 Atletico Madrid 1 
+playing Sunday : 
+Compostela vs Tenerife 
+Logrones vs Zaragoza 
+Sevilla vs Real Sociedad 
+Valencia vs Racing Santander 
+sporting Gijon vs Espanyol 
+Barcelona vs Oviedo 
+Valladolid vs Rayo Vallecano 
+real Madrid vs Deportivo Coruna 
+playing Monday : 
+Extremadura vs Hercules 
+Standings ( tabulate under played , won , drawn , lost , goals 
+for , against , points ) : 
+1.Real Madrid 21 14 7 0 43 14 49 
+3.Real Betis 20 11 6 3 42 20 39 
+4.Deportivo Coruna 21 10 9 2 28 13 39 
+5.Real Sociedad 21 11 4 6 30 23 37 
+6.Atletico Madrid 21 10 6 5 40 28 36 
+7.Athletic Bilbao 21 8 8 5 38 28 32 
+8.Racing Santander 21 7 9 5 22 21 30 
+13.Celta Vigo 22 6 7 9 22 29 25 
+14.Rayo Vallecano 20 6 5 9 23 28 23 
+17.Sporting Gijon 20 5 7 8 19 26 22 

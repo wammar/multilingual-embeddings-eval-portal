@@ -1,0 +1,2 @@
+Canada / U.S. 
+dollar conversion based on Bank of Canada noon rate . 

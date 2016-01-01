@@ -1,0 +1,25 @@
+results of Australian rugby 
+League matches played at the weekend : 
+played Sunday : 
+St George 16 Balmain 10 
+Sydney City 20 Illawarra 26 
+South Queensland 14 Gold Coast 22 
+played Saturday : 
+North Sydney 34 South Sydney 14 
+Parramatta 8 manly 18 
+played Friday : 
+Western suburbs 4 Newcastle 8 
+premiership standings ( tabulate under played , won , drawn , 
+lost , points for , points against , total points ) : 
+manly 6 6 0 0 132 80 12 
+Newcastle 6 5 0 1 140 70 10 
+Illawarra 6 4 1 1 134 84 9 
+St George 6 4 0 2 108 63 8 
+North Sydney 6 3 1 2 122 90 7 
+gold Coast 6 3 0 3 116 100 6 
+Sydney City 6 3 0 3 120 106 6 
+Balmain 6 2 0 4 86 90 4 
+South Sydney 6 2 0 4 87 164 4 
+Western suburbs 6 1 0 5 59 109 2 
+Parramatta 6 1 0 5 50 111 2 
+South Queensland 6 1 0 5 69 156 2 

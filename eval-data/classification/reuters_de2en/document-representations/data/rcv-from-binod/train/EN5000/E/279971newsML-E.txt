@@ -1,0 +1,25 @@
+the Conference Board index of leading , coincident and lagging indicators ( 1992 = 100 ) and percent changes from previous months , seasonally adjusted . 
+- Index---Nov Oct Sep Aug July 
+leading Indicators 102.6 0.1 Unch 0.1 0.1 Unch 
+Coincident Indicators 113.5 0.3 Unch 0.3 0.3 0.2 
+lagging Indicators 104.6 0.1 -0.2 Unch -0.1 0.3 
+following are components of the index of leading indicators with net contributions to monthly changes . 
+- Nov Oct Sept Aug July 
+average workweek Unch Unch Unch 0.03 -0.07 
+initial jobless Claims -0.01 0.01 -0.06 0.07 0.08 
+consumer Goods Orders -0.05 0.01 0.02 -0.04 0.06 
+slower deliveries 0.03 0.03 -0.09 0.05 -0.08 
+- Nov Oct Sept Aug July 
+capital Goods Orders -0.06 Unch 0.11 -0.09 0.05 
+building permits 0.04 -0.03 -0.02 -0.03 0.03 
+stock Prices 0.10 0.08 0.04 0.06 -0.08 
+money Supply 0.07 -0.01 0.02 0.05 -0.01 
+Treasury Yield curve -0.08 -0.05 0.02 -0.01 -0.03 
+consumer Expectations 0.05 Unch 0.04 0.01 0.03 
+wall Street economists had expected November leading indicators to rise 0.1 percent . 
+starting with this release , the Conference Board has revamped the index of leading , lagging and coincident indicators in an attempt to provide better defined warnings of turning points and fewer false signals . 
+the revamped report includes the following changes : 
+-- Treasury Yield curve , an index of 10-year Treasury bond rates less the federal funds rate , replaces two former categories of unfilled Orders and Sensitive Materials Prices . 
+-- New orders for capital goods outside the defense industry replaces the former Contracts and Orders for Plant and Equipment . 
+-- initial jobless Claims now includes Puerto Rico and other U.S. 
+the board said that beginning with the next report on the index of leading economic indicators , due out February 4 , it will issue the index at 1000 hrs est ( 1500 GMT ) instead of at 0830 hrs . 

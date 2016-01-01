@@ -1,0 +1,51 @@
+* Inflation ( % ) 
+monthly year-on-year 
+* Foreign Trade ( Billion $ ) 
+monthly 
+exports 1.674 1.733 2.396 2.059 21.635 18.106 15.3 
+imports 2.801 3.023 4.318 3.574 35.709 23.270 29.4 
+balance -1.127 -1.290 -1.922 -1.515 -14.074 -5.163 -14.0 
+* breakdown of Exports ( Million $ ) 
+2 / 96 % Share % rise Jan-Dec % Share % rise 
+investment Goods 267 15.9 14.5 3.517 16.3 12.0 
+consumables 914 54.6 4.5 12.574 58.1 28.9 
+raw materials 493 29.5 11.3 5.543 25.6 6.4 
+* breakdown of Imports ( Million $ ) 
+2 / 96 % Share % rise Jan-Dec % Share % rise 
+investment Goods 805 28.7 32.7 10,488 29.4 52.1 
+consumables 360 12.8 30.0 4,414 12.4 58.8 
+raw Materials 1,636 58.4 16.9 20,806 58.3 53.0 
+* Balance of Payments ( Million $ ) 
+monthly 1995 1994 
+total Bank Credits 2,141,153 2,120,394 1,374.114 566,388 
+-Retail banks &apos; credits 2,005,142 1,986.828 1,297.004 518,908 -TL 1,109,666 1,098.508 813.571 310,734 
+-Foreign currency 895,476 888.320 483.433 208,174 
+-State Banks &apos; Credits 733,221 727.489 575.513 231,432 
+-Priv.Banks &apos; Credits 1,219,101 1,207.356 684.050 273,954 
+-Foreign Banks &apos; Credits 52,820 51.983 37.441 13,522 
+-Investment Banks &apos; Cred . 
+total deposits 1,896,288 1,867.363 1,119.755 557,499 
+-State Retail Banks 1,137,416 1,130.649 682.005 310,578 
+-Private Banks 744,350 722.884 427.283 240,889 
+-Foreign Banks . 
+* Industrial Production Growth Rates ( % , Base 1986 ) 
+* Industrial Capacity utilizations ( % ) 
+* Budget ( Consolidated , cumulative figures ) 
+expenditures 1,913.1 1,549.3 1,244.9 1,720.6 902.5 
+revenues 1,348.8 1,073.9 866.9 1,404.0 751.6 
+budget Balance -564.2 -475.4 -376.0 -316.6 -150.9 
+cash Balance -588.5 -502.4 -428.8 -294.3 -150.4 
+financing 588.5 502.4 428.8 294.3 150.4 
+net Domestic Borr . 
+net Foreign Borr . 
+short-term Debt 886.6 738.1 685.2 291.9 289.5 
+others -88.4 -48.5 -50.5 -2.1 0.4 
+* Foreign Debt Stock ( Billion $ ) ( * = Provisional ) 
+total Debt 72.093 73.278 65,601 67,356 55,592 
+* International Currency Reserves ( Billion $ ) 
+INT . 
+reserves 27,458 26,977 26,849 23,942 16,519 
+commercial Banks 9,860 9,898 9,696 10,169 7,997 
+* Money Supply ( Billion Tl ) 
+* Credit Ratings 
+Moody &apos;s Ba3 

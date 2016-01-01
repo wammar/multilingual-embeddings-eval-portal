@@ -1,0 +1,6 @@
+quarterly 
+latest Prior 
+amount $ 0.085 $ 0.075 
+pay December 23 
+record November 29 
+note : full name of company is Cooper Tire &amp; Rubber Co 

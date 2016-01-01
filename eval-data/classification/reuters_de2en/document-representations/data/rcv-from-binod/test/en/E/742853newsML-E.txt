@@ -1,0 +1,17 @@
+( approx . 
+$ Price 99.097 ) 
+( approx . 
+$ Price 99.286 ) 
+( approx . 
+$ Price 98.503 ) 
+( approx . 
+$ Price 98.444 ) 
+( approx . 
+$ Price 97.429 ) 
+the award was received Friday , July 18 , 1997 . 
+delivery is firm on August 12 , 1997 . 
+this issue is book entry . 
+award : 07 / 18 / 1997 
+delivery : 08 / 12 / 1997 ( firm ) 
+Smith Barney Inc . 
+--U.S. Municipal Desk , 212-859-1650 

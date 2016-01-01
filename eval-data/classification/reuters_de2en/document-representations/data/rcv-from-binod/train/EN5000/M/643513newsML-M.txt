@@ -1,0 +1,25 @@
+government Indicative coupon Yield to Year 
+securities Market Price dates MAT Apprx to 
+( range ) PCT ( Range ) MAT . 
+13.50 % 1997 101.15 / 25 Mar 1 / Sep 1 ---- / ---- 0.24 
+13.50 % 1998 103.10 / 20 APR 18 / Oct 18 ---- / ---- 0.87 
+13.62 % 1998 103.90 / 10 Jan 31 / Jul 31 ---- / ---- 1.15 
+13.65 % 1998 103.90 / 00 Feb 18 / Aug 18 ----- / ----- 1.20 
+12.00 % 1999 101.55 / 70 Oct 7 / APR 7 ----- / ----- 1.84 
+13.65 % 1999 104.15 / 25 Aug 7 / Feb 7 ----- / ----- 1.68 
+13.70 % 1999 104.45 / 55 Dec 6 / Jun 6 ----- / ----- 2.00 
+13.40 % 1999 104.10 / 20 Jun 24 / Dec 24 ----- / ----- 2.55 
+11.64 % 2000 99.35 / 45 Jan 16 / Jul 26 ----- / ----- 3.14 
+12.14 % 2000 100.60 / 70 Nov 29 / May 29 ----- / ----- 2.98 
+13.85 % 2000 105.00 / 10 Jun 27 / Dec 27 ----- / ----- 3.56 
+13.85 % 2001 105.00 / 10 Sep 25 / Mar 25 ----- / ----- 3.80 
+12.69 % 2002 101.00 / 10 Nov 10 / May 10 ----- / ----- 4.92 
+13.82 % 2002 105.10 / 20 Mar 18 / Sep 18 ----- / ----- 5.28 
+12.50 % 2004 99.55 / 65 Sep 23 / Mar 23 ----- / ----- 6.80 
+14.00 % 2006 106.15 / 25 Sep 25 / Mar 25 ----- / ----- 8.81 
+13.05 % 2007 101.45 / 55 Oct 22 / APR 22 ----- / ----- 9.89 
+* Note : these rates are based on a consensus of rates being 
+offered by leading banks , corporates . 
+# To contribute to the daily composite rate , please telephone 
+money Desk on ( 022 ) 265-9000 . 
+MAT - Maturity 

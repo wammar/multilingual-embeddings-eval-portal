@@ -1,0 +1,37 @@
+Tokio ( Reuter ) - Der US-Dollar hat am Dienstag im späten Tokioter Devisenhandel uneinheitlich tendiert . 
+Gegenüber dem Yen gewann die amerikanische Währung an Wert , gegenüber der DM gab sie aber leicht nach . 
+Händler führten den Anstieg des Dollar zum Yen auf DM-Käufe gegen die japanische Währung zurück . 
+Außerdem hätten sich die Sorgen um das japanische Bankensystem wieder belebt . 
+in New York waren am Freitag abend letzte Kurse mit 122,95 / 00 Yen und 1,6882 / 87 DM genannt worden . 
+in Bezug auf die Sitzung des Offenmarktausschusses der US-Notenbank Fed ( FOMC ) am Nachmittag sagten Händler , eine Zinsanhebung um 25 Prozentpunkte beim Tagesgeldsatz sei in den Kursen schon vorweggenommen . 
+sollte die Fed die Zinsen um 50 Prozentpunkte anheben oder unverändert lassen , werde es möglicherweise zu größeren Kursbewegungen kommen . 
+EMU / brs . 
+Frankfurt ( Reuter ) - Die Analysten von Dresdner Kleinwort Benson haben die Aktien von RWE seit November zum &quot; Verkauf &quot; empfohlen . 
+an dieser Empfehlung werde sich aber auch nach der Frühjahrsanalystenkonferenz der vorigen Woche nichts ändern , hieß am Dienstag im Analysehaus der Dresdner Bank AG . 
+in der Studie werde dargestellt , daß RWE als größtes deutsches Stromunternehmen für den ab 1998 anstehenden freien Wettbewerb im Stromsektor schlecht gerüstet sei . 
+die Aktien von RWE hätten zudem schon seit einger Zeit underperformt , sagten Analysten weiter . 
+am Montag waren RWE mit einem Kursverlust von gut zwei Prozent im Ibis-System der schwächste Dax-Wert . 
+Händler hatten den Kursrückgang mit einem Bericht in der Samstagsausgabe der &quot; taz &quot; begründet , die sich auf eine Studie des Analysehauses berufen hatte . 
+ALE / brs . 
+in der Meldung &quot; US-Dollar im späten Tokioter Handel uneinheitlich &quot; ( 25J03835 ) muß es im 1. 
+Absatz richtig heißen : 
+in New York waren am Montag abend letzte Kurse von 122,95 / 00 Yen und 1,6882 / 87 DM genannt worden . 
+in der ursprünglichen Meldung war für den späten Dollar / DM-Kurs ein Yen-Wert angegeben . 
+weiter stellt die Korrektur klar , daß die letzten Kurse in New York für Montag und nicht für Freitag gelten . 
+eine berichtigte Wiederholung folgt . 
+MIC . 
+( in der Meldung &quot; US-Dollar im späten Tokioter Handel uneinheitlich &quot; ( 25J03835 ) muß es im 1. 
+Absatz richtig heißen : 
+in New York waren am Montag abend letzte Kurse von 122,95 / 00 Yen und 1,6882 / 87 DM genannt worden . 
+in der ursprünglichen Meldung war für den späten Dollar / DM-Kurs ein Yen-Wert angegeben . 
+weiter stellt die Korrektur klar , daß die letzten Kurse in New York für Montag und nicht für Freitag gelten . 
+eine berichtigte Wiederholung folgt . 
+Tokio ( Reuter ) - Der US-Dollar hat am Dienstag im späten Tokioter Devisenhandel uneinheitlich tendiert . 
+Gegenüber dem Yen gewann die amerikanische Währung an Wert , gegenüber der DM gab sie aber leicht nach . 
+Händler führten den Anstieg des Dollar zum Yen auf DM-Käufe gegen die japanische Währung zurück . 
+Außerdem hätten sich die Sorgen um das japanische Bankensystem wieder belebt . 
+in New York waren am Montag ( korrekt ) abend letzte Kurse von 122,95 / 00 Yen und 1,6882 / 87 DM genannt worden . 
+in Bezug auf die Sitzung des Offenmarktausschusses der US-Notenbank Fed ( FOMC ) am Nachmittag sagten Händler , eine Zinsanhebung um 25 Prozentpunkte beim Tagesgeldsatz sei in den Kursen schon vorweggenommen . 
+sollte die Fed die Zinsen um 50 Prozentpunkte anheben oder unverändert lassen , werde es möglicherweise zu größeren Kursbewegungen kommen . 
+EMU / brs . 
+( C ) Reuters Limited 1997 . 

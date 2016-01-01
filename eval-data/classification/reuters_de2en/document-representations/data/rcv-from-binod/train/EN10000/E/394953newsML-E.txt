@@ -1,0 +1,44 @@
+( approx . 
+$ Price 105.896 ) 
+( approx . 
+$ Price 106.151 ) 
+( approx . 
+$ Price 106.431 ) 
+( approx . 
+$ Price 106.524 ) 
+( approx . 
+$ Price 106.442 ) 
+( approx . 
+$ Price 106.2 ) 
+( approx . 
+$ Price 99.162 ) 
+( approx . 
+$ Price 99.11 ) 
+( approx . 
+$ Price 99.507 ) 
+( approx . 
+$ Price 99.485 ) 
+( approx . 
+$ Price 99.411 ) 
+( approx . 
+$ Price 99.394 ) 
+( approx . 
+$ Price 99.342 ) 
+( approx . 
+$ Price 99.668 ) 
+( approx . 
+$ Price 99.484 ) 
+( approx . 
+$ Price 99.719 ) 
+( approx . 
+$ Price 99.411 ) 
+( approx . 
+$ Price 99.394 ) 
+( approx . 
+yield 5.593 ) 
+delivery is firm for March 18 , 1997 . 
+this issue is not book entry . 
+Rauscher Pierce Refsnes , Inc . 
+first Southwest Company 
+chase Securities of Texas , Inc . 
+--U.S. Municipal Desk , 212-859-1650 

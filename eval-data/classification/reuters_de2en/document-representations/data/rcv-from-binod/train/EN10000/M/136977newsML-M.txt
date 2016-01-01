@@ -1,0 +1,20 @@
+Green Rate ref Period 1 Day 3 Day Forecast Current 
+23 Oct 21-23 Oct 23 Oct n / a G.Rate rate in 
+BFR 39.6374 39.6464 -0.023 0.081 n / a 39.6464 21.10.96 
+Dmk 1.92391 1.92466 -0.039 0.074 n / a 1.92466 21.10.96 
+DFl 2.15840 2.15914 -0.034 0.070 n / a 2.15914 21.10.96 
+DKR 7.49997 7.37159 1.712 1.757 n / a unch 24.07.95 
+FFR 6.61023 6.50592 1.578 1.618 n / a unch 01.02.95 
+lit 1973.93 1924.82 2.488 2.211 n / a unch 01.10.96 
+Dra 311.761 301.087 3.424 3.396 n / a unch 01.01.96 
+PTA 165.198 162.035 1.915 1.899 n / a unch 24.07.95 
+ESC 198.202 194.068 2.086 2.053 n / a unch 01.02.95 
+SKR 8.64446 8.29213 4.076 3.990 n / a unch 07.07.96 
+os 13.5355 13.5406 -0.038 0.071 n / a 13.5406 21.10.96 
+Fmk 6.02811 5.76827 4.310 4.276 n / a unch 06.05.96 
+sterling entered its single confirmation period on 21 October . 
+on the basis of exchange rates from 21-23 October , the UK monetary gap is + 5.553 percent , and the UK green rate is thus currently forecast to be revalued to 0.810012 on 31 October by halving its RMG . 
+on the basis of exchange rates over the same period , the average RMG for the Irish punt is * 5.789 percent . 
+if its average monetary gap remains above + 5 percent at the end of this confirmation period ( 21-30 October ) , the Irish punt will enter its fifth and last confirmation period on 31 October . 
+in this case , all currencies with negative RMGs will be devalued by reducing their monetary gaps to zero . 
+thus , on the basis of exchange rates from 21-23 October , further green rate devaluations are currently forecast for the Belgian , German , Dutch and the Austrian green rates . 

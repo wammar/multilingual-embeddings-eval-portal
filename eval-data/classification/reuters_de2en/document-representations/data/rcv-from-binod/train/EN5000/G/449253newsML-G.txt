@@ -1,0 +1,3 @@
+Standings of National Hockey 
+League teams after games played on Monday ( tabulate under won , 
+lost , tied , goals for , goals against , points ) : 

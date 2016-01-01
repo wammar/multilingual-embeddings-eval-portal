@@ -1,0 +1,13 @@
+average price fix for Aug 13 ( in pesos / tonnes , FAS elevator , 1 peso = $ 1 ) 
+Buenos Aires Quequen Rosario Bahia Blanca 
+oats unq unq unq unq 
+wheat 147.75 143 146 unq 
+maize ( Flint ) 106 106.8 107.4 106 
+maize ( dent ) 106 106.8 107.4 106 
+sorghum unq unq 80 unq 
+Millet unq unq 130 unq 
+soybeans 265 unq 273.5 unq 
+Sunseeds unq 215 220 215 
+linseed unq unq unq unq 
+source : Buenos Aires Cereals Exchange . 
+( ( -- Buenos Aires Newsroom + 541 318-0655 ) ) 

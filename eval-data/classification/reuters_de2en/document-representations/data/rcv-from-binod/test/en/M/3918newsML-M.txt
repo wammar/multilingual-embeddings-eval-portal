@@ -1,0 +1,11 @@
+Bombay banks quoted the forward premia on dollar at the following rates ( in paise ) : 
+bid / Ask Bid / Ask Bid / Ask Bid / Ask Bid / Ask Bid / Ask 
+Aug - 8 / 9 8 / 9 7 / 9 8 / 10 9 / 12 9 / 11 
+Sep - 31 / 34 31 / 34 31 / 35 34 / 36 37 / 40 37 / 40 
+OCT - 63 / 67 65 / 70 65 / 70 68 / 72 72 / 76 71 / 75 
+Nov - 92 / 96 95 / 98 97 / 101 100 / 105 102 / 106 103 / 109 
+DEC - 124 / 126 128 / 133 130 / 135 134 / 140 139 / 143 139 / 142 
+Jan - 165 / 169 169 / 173 170 / 172 174 / 179 180 / 185 180 / 183 
+Feb - 197 / 201 199 / 204 200 / 203 204 / 209 209 / 215 210 / 215 
+these indicative rates are based on contributions from ABN AMRO , ANZ Grindlays , Andhra Bank , Bank of America , Canara Bank , Citibank , Credit Lyonnais , Deutsche Bank , Dresdner Bank , Global Trust Bank , HDFC Bank , Hongkong Bank , L.C.Raheja , Mashreq Bank , nucleus Securities , Societe Generale , Standard Chartered Bank , State Bank of India - Calcutta , Syndicate Bank . 
+for contributions contact Samir Shah on 022-265 9000 

@@ -1,0 +1,31 @@
+results of Turkey &apos;s first 
+division soccer matches played over the weekend : 
+Besiktas 2 Sariyer 0 
+Zeytinburnuspor 1 Fenerbahce 5 
+Gaziantepspor 2 Denizlispor 0 
+Samsunspor 1 Istanbulspor 0 
+Kocaelispor 0 Antalyaspor 1 
+Galatasaray 1 Canakkale 0 
+Altay 1 Genclerbirligi 0 
+Bursaspor 2 Vanspor 0 
+Ankaragucu 0 Trabzonspor 1 
+Standings ( tabulate under games played , won , drawn , lost , 
+goals for , against , points ) : 
+Bursaspor 6 4 2 0 8 1 14 
+Trabzonspor 6 4 1 1 12 5 13 
+Galatasaray 6 4 1 1 9 6 13 
+Fenerbahce 6 4 0 2 18 6 12 
+Beskiktas 6 3 2 1 14 6 11 
+Samsunspor 6 3 2 1 9 8 11 
+Altay 6 3 1 2 8 10 10 
+Gaziantepspor 6 2 3 1 7 5 9 
+Kocaelispor 6 2 3 1 7 5 9 
+Gencelerbirligi 6 2 2 2 6 6 8 
+Antalyaspor 6 2 1 3 4 5 7 
+Vanspor 6 2 1 3 5 12 7 
+Ankaragucu 6 2 0 4 7 10 6 
+Istanbulspor 6 1 2 3 4 6 5 
+Canakkale Dardanelspor 6 1 2 3 4 7 5 
+Sariyer 6 1 2 3 7 13 5 
+Denizlispor 6 0 2 4 6 11 2 
+Zeytinburnuspor 6 0 1 5 5 18 1 

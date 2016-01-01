@@ -1,0 +1,7 @@
+the Brussels Stock Exchange got an advance preview Thursday of the so-called Millennium problem -- in which some computer programmes may be unable to recognise the year 2000 . 
+the exchange &apos;s trading system crashed due to the New Year date change and trading was halted for three hours until the problem could be fixed . 
+&quot; There is a technical problem with the change of date which is causing problems in one programme , &quot; market director Olivier Lefebvre said when the market failed to open . 
+Lefebvre said one of the problems was that orders that were placed on Dec . 30 , the last trading day of 1996 , were being recognised as December 1997 orders . 
+this prevented investors and brokerages from changing their orders to reflect Wall Street &apos;s plunge Tuesday , when the Dow Jones industrial average lost 101.10 points to 6,448.27 , leaving it up 26 percent for the year after a rise of 33.5 percent in 1995 . 
+the Belgian market was closed Tuesday and Wednesday for an extended New Year break . 
+the computer glitch was the most serious technical problem to hit the Brussels market since a new trading system was installed last year . 

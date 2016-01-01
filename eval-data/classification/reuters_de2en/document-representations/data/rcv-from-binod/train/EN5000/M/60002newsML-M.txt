@@ -1,0 +1,26 @@
+following is a table of outstanding 182-day Egyptian treasury bills : 
+issue date Value average yield Maturity date 
+( million pounds ) ( PCT ) 
+Sept 17 849.975 10.259 Mar 18 
+Sept 10 739.550 10.258 Mar 11 
+Sept 3 629.625 10.259 Mar 2 
+Aug 26 977.950 10.249 Feb 25 
+Aug 20 773.325 10.245 Feb 18 
+Aug 13 974.250 10.254 Feb 11 
+Aug 6 762.550 10.256 Feb 4 
+July 30 967.750 10.253 Jan 28 
+July 9 700.000 10.269 Jan 7 
+July 2 864.950 10.273 Dec 31 
+June 25 970.225 10.261 Dec 24 
+June 18 948.900 10.266 Dec 17 
+June 11 978.875 10.253 Dec 10 
+June 4 982.000 10.260 Dec 3 
+may 28 864.200 10.258 Nov 26 
+may 21 841.975 10.266 Nov 19 
+may 14 864.750 10.257 Nov 12 
+may 7 539.950 10.264 Nov 5 
+APR 23 938.775 10.275 Oct 22 
+APR 9 832.400 10.279 Oct 8 
+APR 2 820.425 10.273 Oct 1 
+mar 26 875.275 10.294 Sept 24 
+-- Cairo reporting + 20 2 578 3290 / 1 

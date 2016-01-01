@@ -1,0 +1,18 @@
+award : 04 / 24 / 1997 
+delivery : 05 / 13 / 1997 ( expected ) 
+initial trade : 04 / 24 / 1997 
+date of execution : 04 / 24 / 1997 
+time of execution : 2 : 00PM 
+J.P. Morgan Securities Inc . 
+Smith Barney Inc . 
+Goldman , Sachs &amp; Co . 
+Morgan Stanley &amp; Co . 
+incorporated 
+bear , Stearns &amp; Co . Inc . 
+first Albany Corporation 
+Lehman Brothers 
+Merrill Lynch &amp; Co . 
+PaineWebber Incorporated 
+prudential Securities Incorporated 
+Samuel A. Ramirez &amp; Company , Inc . 
+--U.S. Municipal Desk , 212-859-1650 

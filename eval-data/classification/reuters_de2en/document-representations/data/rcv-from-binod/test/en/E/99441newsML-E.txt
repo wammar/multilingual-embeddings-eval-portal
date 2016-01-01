@@ -1,0 +1,24 @@
+PCT change month / month + 3.8 + 7.5 + 1.0 
+PCT change year / year + 44.2 + 40.3 + 28.2 
+PCT change month / month + 13.2 + 3.6 + 3.3 
+PCT change year / year + 54.2 + 40.7 + 31.5 
+PCT of workforce 5.9 6.2 9.2 
+PCT change mth / mth + 5.5 + 3.9 + 4.7 
+PCT change yr / yr + 69.1 + 71.8 + 92.7 
+PCT change mth / mth + 6.7 + 3.9 + 7.6 
+PCT change yr / yr + 57.2 + 60.1 + 67.7 
+note : m2 includes currency , demand deposits , time and savings deposits and foreign currency deposits . 
+M1 measures only cash in circulation and demand deposits . 
+exports 4,689.5 3,919.8 4,868.0 
+balance -594.7 -557.1 -826.0 
+note : trade data on a customs cleared basis . 
+PCT change -1.2 -6.7 + 9.3 ( yr / yr ) 
+revenues ( bln lei ) 9,625.8 6,749.2 12,888.3 
+expenditures 11,287.5 7,945.4 15,858.0 
+balance -1,661.7 -1,196.1 -2,969.7 
+note : total reserves data include Special Drawing Rights holdings but do not include Romania &apos;s gold reserves of around 87 tonnes . 
+rate 35 PCT 90 PCT 
+last changed December 95 April 96 
+former rate 30 PCT 100 PCT 
+change yr / yr ( PCT ) + 6.9 + 3.9 
+-- Bucharest Newsroom 40-1 3120264 

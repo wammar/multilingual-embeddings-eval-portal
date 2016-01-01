@@ -1,0 +1,44 @@
+Scottish league standings after matches on Saturday : 
+Rangers 28 21 5 2 71 24 68 
+Celtic 28 20 3 5 66 25 63 
+Dundee United 28 14 7 7 39 24 49 
+hearts 29 11 8 10 40 39 41 
+Aberdeen 29 9 10 10 40 46 37 
+Dunfermline 29 10 5 14 42 54 35 
+Motherwell 29 7 8 14 34 50 29 
+Hibernian 29 7 8 14 29 47 29 
+Kilmarnock 28 7 3 18 32 55 24 
+Raith 29 6 5 18 26 55 23 
+division one 
+St Johnstone 28 18 6 4 59 19 60 
+Dundee 28 13 9 6 39 25 48 
+Airdrieonians 28 11 13 4 44 28 46 
+St Mirren 27 13 6 8 39 33 45 
+Partick 28 10 11 7 43 31 41 
+Falkirk 27 11 7 9 27 26 40 
+Greenock Morton 28 9 7 12 31 31 34 
+Stirling 28 7 8 13 36 50 29 
+Clydebank 28 6 6 16 23 42 24 
+East Fife 28 1 7 20 19 75 10 
+division two 
+Ayr 28 19 5 4 50 27 62 
+Hamilton 26 16 5 5 59 23 53 
+Livingston 27 14 8 5 45 30 50 
+Clyde 27 11 8 8 34 30 41 
+Stenhousemuir 28 11 7 10 42 28 40 
+Queen of South 27 8 7 12 42 51 31 
+Brechin 28 7 10 11 31 40 31 
+Stranraer 27 7 7 13 23 40 28 
+Dumbarton 28 5 7 16 32 56 22 
+Berwick 28 3 8 17 28 61 17 
+division Three 
+Inverness C. Thistle 27 18 6 3 54 27 60 
+Ross County 27 15 4 8 47 33 49 
+Forfar 28 12 9 7 53 39 45 
+Albion 28 11 8 9 39 34 41 
+Alloa 27 11 6 10 37 40 39 
+Montrose 27 12 3 12 38 44 39 
+Queen &apos;s Park 28 7 8 13 38 43 29 
+Cowdenbeath 28 8 5 15 29 42 29 
+Arbroath 28 5 10 13 25 40 25 
+East Stirling 28 6 7 15 29 47 25 

@@ -1,0 +1,6 @@
+U.S. Treasury balances at Federal Reserve based on Treasury Department &apos;s latest budget statement . 
+DEC 27 Dec 26 
+fed acct 5.725 6.046 
+tax / loan note acct 24.057 21.221 
+cash balance 29.782 27.267 
+total public debt , subject to limit 5,182.866 5,182.401 

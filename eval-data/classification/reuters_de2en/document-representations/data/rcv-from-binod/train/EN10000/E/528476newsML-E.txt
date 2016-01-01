@@ -1,0 +1,5 @@
+consumer prices rose 0.2 percent in March using a new experimental geometric mean calculation method being trialed by the U.S. Labor Department . 
+that compared with the 0.1 percent increase for March issued last week using the &quot; official &quot; calculation method . 
+excluding volatile food and energy prices the geometric mean method showed an increase of 0.4 percent in March compared with a 0.2 percent rise under the current method . 
+unlike the present Consumer Price Index , the geometric mean formula takes into account consumers &apos; tendency to substitute among similar items , such as purchasing Romaine lettuce when the price of iceberg lettuce rises . 
+another test index , the Laspeyres series , that uses the same mathematical formula as the official CPI but with a technical adjustment to make it comparable to the geometric mean index , gave the same result for both all items and excluding food and energy as the geometric mean . 

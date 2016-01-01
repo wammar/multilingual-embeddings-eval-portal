@@ -1,0 +1,15 @@
+boxed beef firm on light demand and offerings . 
+select and Choice rib , chuck , and round cuts firm , while loin cuts higher . 
+beef trimmings firm on light to moderate demand and offerings . 
+35 50s Lds 550 / 700 700 / 850 550 / 700 700 / 850 
+40 GRD Lds --------------------------------------------- 
+values = 103.62 103.39 98.54 97.79 
+changes 0.58 1.13 0.76 1.08 
+rib 152.39 151.66 141.23 140.99 
+chuck 70.74 68.88 74.11 69.47 
+round 93.54 93.54 91.89 91.89 
+loin 164.46 166.36 143.29 146.34 
+Brisket 65.90 65.90 67.27 67.27 
+Shrt plate 65.31 65.24 65.54 65.38 
+flank 59.22 59.22 57.05 57.05 
+( ( Chicago newsdesk 312-408-8720 ) ) 

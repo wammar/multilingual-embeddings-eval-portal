@@ -1,0 +1,7 @@
+-- Friday &apos;s closing prices as follows : 
+CONF futures CONFc1 down 12 at 120.75 . 
+Comi medium-term bond COMIc1 down 30 at 111.60 
+euro Swiss francs FESc1 down four at 98.53 . 
+4-1 / 2 Jun 2007 bond 0 # CH470458 = 108.38 / 48 yield 3.481 PCT 
+( Thursday 108.50 / 60 yield 3.47 PCT ) 
+-- Zurich editorial + 41 1 631 7340 

@@ -1,0 +1,64 @@
+latest Australian monthly economic data . 
+period Latest Prev1 Prev2 Next 
+balance of Goods and Services ( s / adj , A $ million current prices ) 
+trade Balance Feb + 67 -255 + 121 APR 30 
+services Balance Feb + 269 + 217 + 159 APR 30 
+merchandise Exports ( s / adj , m / m PCT ) 
+exports ( m / m PCT ) Feb + 6.4 -0.1 + 7.6 APR 30 
+exports ( y / y PCT ) Feb + 8.5 -0.5 + 1.1 APR 30 
+rural ( m / m PCT ) Feb + 4.8 + 7.6 + 7.5 APR 30 
+non-rural ( m / m PCT ) Feb + 7.1 -3.2 + 7.7 APR 30 
+merchandise Imports ( s / adj , m / m PCT ) 
+total Feb + 1.4 + 5.7 -0.6 APR 30 
+total ( y / y PCT ) Feb + 2.7 + 1.5 -0.6 APR 30 
+consumer Feb + 8.1 -0.7 -0.3 APR 30 
+capital Feb -13.2 + 28.6 -6.9 APR 30 
+intermediate Feb + 6.1 -0.7 + 2.1 APR 30 
+labour Force ( s / adj ) 
+employment ( 000 ) Feb -7.2 + 28.4 + 3.1 APR 14 
+- full time ( 000 ) Feb -24.2 + 2.2 + 4.2 APR 14 
+- part time ( 000 ) Feb + 17.0 + 26.1 + 3.7 APR 14 
+unemployment ( PCT ) Feb 8.8 8.6 8.6 APR 14 
+participation rate Feb 63.7 63.7 63.5 APR 14 
+( s / adj , m / m PCT ) Feb + 1.8 + 3.3 -2.3 APR 07 
+( s / adj , y / y PCT ) Feb -8.2 -15.7 -13.8 APR 07 
+( trend , m / m PCT ) Feb + 0.5 + 0.4 + 0.2 APR 07 
+building approvals 
+( s / adj , m / m PCT ) Jan -3.7 + 10.4 -1.5 May 01 
+( s / adj , y / y PCT ) Jan + 11.3 + 22.5 + 5.6 May 01 
+( trend , m / m PCT ) Jan + 1.6 + 1.6 + 1.8 May 01 
+housing finance for owner occupation ( PCT ) 
+total ( s / adj , m / m ) Jan + 5.0 + 5.0 -2.9 APR 14 
+total ( s / adj , y / y ) Jan + 9.3 + 7.1 + 1.2 APR 14 
+total ( trend , m / m ) Jan + 0.2 + 0.6 + 0.5 APR 14 
+retail Trade ( current prices ) 
+total ( s / adj , m / m ) Jan + 0.8 + 2.7 -1.0 May 02 
+total ( s / adj , y / y ) Jan + 3.3 + 2.6 + 0.8 May 02 
+total ( trend , m / m ) Jan + 0.6 + 0.5 + 0.4 May 02 
+new Motor Vehicles registrations 
+total ( s / adj , m / m ) Feb + 5.4 + 2.9 -0.1 APR 24 
+total ( s / adj , y / y ) Feb + 6.9 + 5.0 + 3.8 APR 24 
+total ( trend , m / m ) Feb + 1.4 + 1.8 + 1.5 APR 24 
+Westpac / Melbourne Institute Consumer sentiment 
+index level Mar 106.2 101.2 109.9 APR 16 
+PCT change ( m / m ) Mar + 4.9 -7.9 + 6.0 APR 16 
+points change ( m / m ) Mar + 5.0 -8.7 + 6.2 APR 16 
+Westpac / Melbourne Institute leading Index 
+PCT change ( m / m ) Jan + 1.0 -0.2 + 0.7 APR 23 
+points change ( m / m ) Jan + 1.4 -0.3 + 1.0 APR 23 
+private Sector Credit 
+credit ( m / m , s / adj ) Jan + 0.8 + 0.8 + 0.4 APR 15 
+credit ( y / y , s / adj ) Jan + 9.6 + 10.0 + 10.6 APR 15 
+manufacturing input Prices 
+price Index ( m / m ) Jan + 1.3 -0.2 -0.4 APR 15 
+price Index ( y / y ) Jan -4.6 -4.5 -3.5 APR 15 
+manufacturing output Prices 
+price Index ( m / m ) Jan + 0.3 + 0.1 + 0.1 APR 14 
+price Index ( y / y ) Jan + 0.5 + 0.2 + 0.4 APR 14 
+export Prices 
+price Index ( m / m ) Jan + 1.0 -0.1 -1.0 APR 15 
+price Index ( y / y ) Jan -6.0 -6.2 -5.2 APR 15 
+import Prices 
+price Index ( m / m ) Jan + 0.7 -0.6 0.0 APR 15 
+price Index ( y / y ) Jan -6.3 -7.3 -6.5 APR 15 
+-- Sydney Newsroom 61-2 9373-1800 ( fax 61-2 9262-4727 ) 

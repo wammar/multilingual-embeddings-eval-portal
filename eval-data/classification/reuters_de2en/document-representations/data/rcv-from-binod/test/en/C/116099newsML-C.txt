@@ -1,0 +1,5 @@
+Shr primary $ 0.63 $ 0.58 
+net 30,007 27,170 
+Shr primary $ 1.82 $ 1.63 
+net 87,042 77,492 
+( all data above 000s except per share numbers ) 

@@ -1,0 +1,30 @@
+latest Australian quarterly economic data . 
+period Latest Prev1 Prev2 Next 
+gross Domestic Product ( s / adj , constant price , percent ) 
+consumer Price Index ( s / adj , PCT ) 
+underlying ( q / q ) Q2 + 0.8 + 0.4 + 0.7 Oct 23 
+underlying ( y / y ) Q2 + 3.1 + 3.3 + 3.2 Oct 23 
+company profits ( pre-tax , interest , depreciation ) 
+private New Capital Expenditure ( s / adj , q / q , constant price ) 
+total Q2 + 16.0 + 4.9 + 2.6 Nov 25 
+total ( y / y ) Q2 + 22.6 + 7.9 + 6.4 Nov 25 
+build &amp; Struct Q2 + 37.3 -24.2 + 23.1 Nov 25 
+equip , plant &amp; mach Q2 + 8.8 + 20.5 -5.8 Nov 25 
+gross external debt Q2 235.5 230.6 231.5 Dec 11 
+net external debt Q2 187.8 185.2 185.8 Dec 11 
+retail Trade ( s / adj , constant price ) 
+total ( q / q ) Q2 -0.6 + 1.3 + 0.6 Oct 31 
+total ( y / y ) Q2 + 2.7 + 5.1 + 4.5 Oct 31 
+trend ( q / q ) Q2 + 0.3 + 0.6 + 1.0 Oct 31 
+business Stocks ( inventories ) ( constant prices , PCT , s / adj ) 
+total ( q / q PCT ) Q2 + 1.3 + 0.7 + 0.6 Dec 02 
+total ( y / y PCT ) Q2 + 4.9 + 4.0 + 4.4 Dec 02 
+average Weekly Ordinary Time earnings ( s / adj , PCT ) 
+private sect ( q / q ) MayQ + 1.2 + 0.3 + 1.4 Nov 14 
+private sect ( y / y ) MayQ + 4.5 + 4.9 + 6.1 Nov 14 
+public sect ( q / q ) MayQ + 1.6 + 1.1 + 0.2 Nov 14 
+public sect ( y / y ) MayQ + 3.3 + 3.2 + 2.6 Nov 14 
+dwelling Units commencements ( s / adj , PCT ) 
+total ( q / q ) Q2 -3.2 + 6.0 -8.3 Dec 13 
+total ( y / y ) Q2 -16.4 -21.2 -35.4 Dec 13 
+-- Sydney Newsroom 61-2 373-1800 ( fax 61-2 262-4727 ) 

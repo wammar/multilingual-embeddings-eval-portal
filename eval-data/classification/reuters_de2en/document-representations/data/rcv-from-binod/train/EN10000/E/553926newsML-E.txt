@@ -1,0 +1,29 @@
+Karachi 100-share index 1,538.82 1,526.92 
+call money rate 12.0 PCT 3.00 PCT 
+gold ( Karachi ) RS / 10 GM 4,586 4,616 
+silver .999 ( RS / kg ) 6,687 6,687 
+short-term Federal Bonds Data 
+maturity Yield Per annum 17.29545 PCT 17.29545 PCT 
+sovereign Bond Data 
+maturity Yield Per annum 11.022 11.082 
+maturity Yield semi-annual 10.734 10.791 
+floating Rate Note Data 
+accrued Interest 0.838 0.731 
+April 19 April 12 YEAR-AGO 
+growth in : 
+population ( millions ) 131.45 127.75 
+per capita income ( market prices ) Rs4,828 * * Rs4,697 
+external debt $ 28.6bln * $ 27.07bln 
+debt service ratio 52.2 * 55.7 
+trade balance ( July / June ) - $ 3.666bln * * - $ 2.537bln 
+exports $ 8.3 bln * * $ 7.759bln 
+imports $ 11.966bln * * $ 10.296bln 
+current a / c balance ( July / June ) - $ 4.244bln * * - $ 2.163bln 
+industrial production ( 1980-81 = 100 ) 245.7 * 238.3 
+index ( PCT growth ) 6.1 2.9 
+agricultural production ( 1959 = 100 ) 167 152 
+index ( PCT growth ) 6.74 4.67 
+* = estimate 
+* * = provisional 
+N.A. = Not available 
+-- Karachi newsroom 9221-5685192 

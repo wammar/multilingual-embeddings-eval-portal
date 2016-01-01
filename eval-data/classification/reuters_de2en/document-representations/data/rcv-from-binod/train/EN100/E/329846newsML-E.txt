@@ -1,0 +1,136 @@
+real change yr / yr + 3.6 + 4.0 + 4.0 + 4.3 
+household demand + 5.2 + 5.0 + 5.3 + 5.5 
+public-sector demand + 2.9 0.0 + 1.0 + 0.1 
+gross creation / 
+fixed capital + 17.8 + 20.1 + 17.8 + 17.8 
+chg stock / reserves n / a -7.7 n / a + 16.2 
+exports goods / services + 6.1 + 6.5 + 5.1 + 4.7 
+imports goods / services + 21.8 + 12.5 + 14.7 + 11.0 
+real amount 307.2 886.9 
+household demand 183.3 496.7 
+public-sector demand 54.1 157.5 
+gross creation / fixed capital 102.8 254.3 
+chg stock / reserves 6.2 66.5 
+exports goods / services 183.7 529.9 
+imports goods / services 222.9 618.0 
+note . 
+all figures are subject to revision . 
+all results 
+measure percentage change for period , year-on-year , except 
+where listed as being in crowns . 
+all percentage changes , and 
+total amount listed in real , inflation adjusted terms . 
+inflation adjusted real amount in billions of crowns at the 
+beginning of the year . 
+all figures use 1994 as a base . 
+1995 re-calculated using the new methodology . 
+nominal 1995 
+figures using the new methodology -- 1989 was the previous base 
+-- are outlined below . 
+note . 
+above inflation adjuseted figures use new methodology 
+with 1994 prices as the base . 
+results was 10.1 percent , compared with 7.9 percent for the 
+first quarter and 9.1 percent for the second quarter 1996 . 
+with growth of 3.9 percent in the first quarter , 4.0 percent in 
+the second quarter . 
+old methodology for the third quarter of 1996 . 
+trade Balance -4,118.4 -2,671.6 -3,677.9 
+balance of Services 1,129.1 1,530.6 1,842.0 
+revenues 5,540.3 4,531.4 6,717.8 
+transport 951.6 1,044.4 1,460.5 
+tourisim 2,796.9 1,950.0 2,875.2 
+other services 1,791.8 1,537.0 2,382.1 
+expenditure 4,411.2 3,000.8 4,875.8 
+transport 506.8 488.5 799.3 
+tourism 2,025.3 1,150.0 1,632.8 
+other services 1,879.1 1,362.3 2,443.7 
+balance of income -483.1 -10,8 -105.6 
+credit 895,0 797,3 1.194.5 
+debit 1.378,1 808,1 1.300.1 
+Unrequitted transfers 389.7 467.8 579.2 
+direct investment 946.6 1,965.3 2,525.6 
+Czech invest . 
+abroad -25.8 -18.9 -36.6 
+portfolio investment 413.4 942.1 1,362.0 
+other Capital 663.2 2,251.7 4,338.3 
+assets -64.5 43.7 52.2 
+liabilities 1,629.6 2,097.1 3,314.9 
+errors , ommissions and 
+exchange rate differences 261.6 1,123.9 594.5 
+change in foreign exchange 
+reserves 797.9 -5,703.4 -7,458.1 
+note . 
+results are preliminary and subject to revision . 
+Resutlts for Q1-Q3 1996 use an exchange rate of 27.162 
+crowns / dollar , Q1-Q3 1995 use 26.57 / dollar , and full-year 1995 
+use 26.53 / dollar . 
+revenue ( CZK bln ) 482.79 431.4 440.0 
+expenditure 482.38 434.4 432.8 
+balance + 0.42 -3.0 + 7.2 
+Czech National Bank ( $ bln ) 12.604 12.722 12.900 
+commercial banks 3.228 3.582 3.000 
+total 15.832 16.304 15.900 
+note . 
+measures through end of period . 
+all 1996 figures 
+subject to revision . 
+PCT change month / month + 0.5 + 0.5 + 0.5 
+PCT change year / year + 8.6 + 8.6 + 7.9 
+industrial 
+PCT change month / month + 0.0 + 0.3 -0.2 
+PCT change year / year + 4.4 + 4.2 + 7.2 
+construction prices 
+PCT change month / month + 0.6 + 0.6 + 0.1 
+PCT change year / year + 11.2 + 10.7 + 12.3 
+agricultural prices 
+PCT change month / month n / a n / a n / a 
+PCT change year / year + 6.8 + 9.0 + 6.1 
+number of jobless 186,339 175,842 153,041 
+PCT of workforce 3.50 3.30 2.90 
+exports 549.470 495.500 ( 495.136 ) 526.520 
+balance -140.147 -123.548 ( -125.453 ) -81.370 
+note . 
+all figures in billions of crowns on customs-cleared 
+basis and subject to revision . 
+previously reported figures in 
+brackets . 
+PCT chg yr / yr + 9.8 + 11.6 ( + 11.8 ) + 22.4 
+PCT chg yr / yr 
+equity expansion + 11.4 + 13.8 ( + 14.0 ) + 18.0 
+note . 
+all 1996 figures subject to revision , figures 
+Czech M2 measures currency , demand deposits , time and 
+savings deposits , and foreign currency deposits . 
+billion equity expansion in the summer of 1995 which was put on 
+PCT change yr / yr + 1.4 ( + 1.5 ) + 5.3 + 7.4 ( 7.4 ) + 13.1 
+PCT change yr / yr + 14.4 ( + 14.4 ) + 18.2 + 17.1 ( 17.2 ) + 10.1 
+preliminary estimates in brackets . 
+the average 
+nominal industrial wage in November was 11,682 crowns compared 
+with 10,202 in October . 
+the November index of real wages was up 
+5.3 percent , while the real wage index was 7.6 percent higher 
+for the first 11 months of the year . 
+wage results sample companies with 100 or more employees 
+while output results include estimates of smaller firms as 
+well . 
+real PCT chg yr / yr + 6.5 + 0.1 + 8.1 + 5.6 
+avg nominal monthly 
+wages chg yr / yr + 11.4 + 15.6 + 18.9 + 15.0 
+note : output figures are based on all sizes of companies . 
+wage figures are calculated only on the basis of companies with 
+25 or more employees . 
+PCT change yr / yr + 8.3 + 14.7 + 9.2 
+PCT change yr / yr + 9.2 + 14.2 + 11.4 
+note : all figures are preliminary . 
+total internal trade 
+includes retail sales plus sales and repairs of motor cars , 
+motor fuel , restaurant services and accommodation . 
+total starts ( units ) 9,193 16,548 6,975 
+PCT chg yr / yr + 31.8 + 50.9 + 35.3 
+debt servicing were reflected in the results . 
+rate 10.5 PCT 14.0 PCT 
+last changed June 20 , 1996 June 20 , 1996 
+former rate 9.5 PCT 12.5 PCT 
+-- Prague Newsroom , 42-2-2423-0003 

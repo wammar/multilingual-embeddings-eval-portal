@@ -1,0 +1,16 @@
+implied volatilities for U.S. Treasury bond options bounced back from early lows as the underlying market shed overnight gains and slipped into negative territory , dealers said . 
+steep declines in bond prices Wednesday and last Friday have made option writers cautious , although volatilities faced persistent downward pressure due to perception that bonds may be stuck in recent ranges for some time , they said . 
+implied volatilities for February and March T-bond futures options were at around 9.4 and 9.9 percent respectively in mid-afternoon trade . 
+they were off about 0.1 point each on the day but some 0.2 point above early lows . 
+bonds were firm early after overnight gains and a few favorable economic indicators , prompting selling in options of several lots of 500 to 1,000 . 
+&quot; Everyone seemed to be selling , both puts and calls , &quot; said a brokerage firm trader at the Chicago Board of Trade . 
+November U.S. retail sales fell 0.4 percent against an average trade estimate for an increase of 0.3 percent , while the overall and core consumer price index rose 0.3 and 0.2 percent respectively , as expected . 
+but as March futures turned downward and slid toward Friday &apos;s 112-8 / 32 low , fear began to reign and volatilities were bid back up . 
+among the largest trades , an investment bank was said to have bought 2,000 contracts of March 114 puts covered against futures , while another firm was seen buying 3,000 lots of March 113 calls . 
+at the shorter end of the yield curve , volatilities for Eurodollar futures options were mostly flat , with the front end under pressure . 
+movement in March and June futures contracts was dampened by expectations of a steady Federal Reserve monetary policy into the early part of next year , depressing demand for front-end options . 
+back-end options , on the other hand , were hampered by their low gamma values , one trader said . 
+gamma shows how much delta moves , or how much premiums accelerate , per incremental change in underlying asset price . 
+implied volatilities for March and June Eurodollar futures options stood virtually unchanged at around 9.8 and 13.6 percent , while September was somwewhat firmer at 16.6 percent . 
+( ( Chicago Derivatives Desk 312-408-8750 ) ) 
+( ( e-mail : derivatives @ reuters.com ) ) 

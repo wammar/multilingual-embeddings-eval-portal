@@ -1,0 +1,55 @@
+the following chart shows a ranking of states from best to worst based on 17 health barometers including rates of disease , overall lifestyle , access to health care , occupational safety and mortality . 
+each state &apos;s score represents the percentage that state is above or below the national norm . 
+of the 50 states , the scores of 33 fell from a year ago , nine improved , and eight stayed the same . 
+the rankings were compiled by ReliaStar Financial Corp. , an insurer that has conducted the survey annually since 1990 . 
+rank State score Change from 1995 
+1 Minnesota 22 + 1 
+2 Utah 17 -3 
+3 Hawaii 16 -2 
+4 New Hampshire 15 -8 
+5 Massachusetts 14 0 
+6 Wisconsin 13 0 
+7 Connecticut 12 -7 
+7 ( tie ) Iowa 12 -1 
+9 Colorado 11 0 
+10 Virginia 9 -2 
+11 Maryland 8 -2 
+11 Nebraska 8 -4 
+11 Washington 8 -1 
+14 Kansas 6 -5 
+14 New Jersey 6 -3 
+14 Ohio 6 + 1 
+14 Pennsylvania 6 0 
+18 Indiana 5 + 1 
+18 Vermont 5 -11 
+20 California 4 + 2 
+20 Oregon 4 0 
+22 Maine 2 -9 
+22 North Dakota 2 -9 
+24 Georgia 1 + 4 
+24 Illinois 1 0 
+24 Texas 1 + 3 
+27 Michigan 0 -1 
+28 North Carolina -1 0 
+28 Rhode Island -1 -9 
+30 Arizona -2 -4 
+30 Idaho -2 -3 
+30 South Dakota -2 -7 
+33 Montana -3 -6 
+34 Missouri -4 -1 
+35 Oklahoma -6 -1 
+36 Delaware -7 -7 
+36 Florida -7 + 1 
+36 New York -7 + 1 
+36 Wyoming -7 -3 
+40 Kentucky -9 -1 
+41 Alabama -10 -1 
+42 Tennessee -11 -3 
+43 Alaska -13 -3 
+43 Arkansas -13 -1 
+45 New Mexico -15 -5 
+45 South Carolina -15 0 
+47 West Virginia -17 -4 
+48 Mississippi -18 + 1 
+48 Nevada -18 -6 
+50 Louisiana -19 -1 

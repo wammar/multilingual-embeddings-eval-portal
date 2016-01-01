@@ -1,0 +1,4 @@
+Brazilian coffee region temperatures ( centigrade ) and rain ( millimeters ) in the 72 hours to 1200 GMT . 
+Parana State : Londrina 16.0 , nil , Maringa 17.6 , nil , Umuarama and Paranavai Not Available . 
+Paulo State : Presidente Prudente 18.0 , nil , franca 15.1 , nil , Votuporanga 15.9 , nil , Catanduva 16.6 , nil , Sao Carlos 14.8 , nil , Simao 14.4 , nil . 
+Minas Gerais State : Pocos de Caldas 11.0 , nil , Guaxupe 13.4 , nil . 

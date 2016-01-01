@@ -1,0 +1,9 @@
+12 / 10 1000 / 1500 wholesale Inv Oct + 0.6 pct-A -0.7 pct-A 
+12 / 10 1000 / 1500 Current Acct Q3 96 - $ 47.96 bln-A - $ 40.21 bln-R 
+12 / 10 1000 / 1500 Rich Fed Survey Nov 0 ship / 5 svc-A 4 / 17 
+12 / 10 1455 / 1955 Redbook w / e 12 / 07 + 0.8 pct-A -0.7 PCT 
+12 / 11 0830 / 1330 Producer Prices Nov + 0.4 pct-A + 0.4 PCT 
+ex-Food / Energy + 0.1 pct-A -0.3 PCT 
+12 / 12 0830 / 1330 Consumer Prices Nov + 0.3 PCT + 0.3 PCT 
+ex-Food / Energy + 0.2 PCT + 0.2 PCT 
+12 / 12 0830 / 1330 jobless Claims w / e 12 / 07 341,000 336,000 

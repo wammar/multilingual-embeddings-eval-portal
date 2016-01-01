@@ -1,0 +1,3 @@
+: Perkins Coie , Seattle 
+year amount coupon Yield 
+Seattle-Northwest Securities Corp 

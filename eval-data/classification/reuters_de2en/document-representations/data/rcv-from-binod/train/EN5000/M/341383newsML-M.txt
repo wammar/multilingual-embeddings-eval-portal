@@ -1,0 +1,20 @@
+the Reserve Bank of India ( RBI ) announced the following transactions in dated government securities and treasury bills through its Subsidiary General ledger ( SGL ) account on January 28 : 
+instrument ( face value ) ( In rupees ) Indicative 
+million rupee 
+* Government of India 
+dated securities 
+13.50 % 1998 ( conversion ) 50.00 102.86 10.8980 
+13.50 % 1998 ( conversion ) 100.00 102.90 10.8630 
+13.50 % 1998 ( conversion ) 50.00 102.88 10.8805 
+total 4830.67 
+* Treasury Bills 
+91 day bills ( maturity-wise ) 
+total 1566.15 
+* 364 day bills ( maturity-wise ) 
+total 1735.00 
+name of the amount Price Repo Rate Repo 
+instrument face value ( In rupees ) ( % PA ) Period 
+million rupee ( Days ) 
+* Government of India 
+* Treasury Bills 
+@ relate to the first leg of Repos 

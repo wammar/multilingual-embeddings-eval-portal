@@ -1,0 +1,57 @@
+vessels at Belawan Port , North Sumatra 
+summary : 
+vessels unloading : 22 Vessels loading : 17 
+agent 
+Pacific 1000 0800 P.Klang 2,710 tns 
+eagle Moon 2100 2000 Pukhet 123 teus 
+7,179 contanier 
+Malaca Glory 0200 1000 P.Klang 95 teus 
+20,408 container 
+Vincita 0400 0800 Gudang crude palm 
+15,380 P.Klang oil 
+Caraka Jaya 25-09-96 28-09-96 T.Priok container 
+N.III-27 1700 2000 T.Priok 65 teus 
+container 
+40 teus 
+1,000 tns 
+Eka Naga 1300 1600 Penang 100 tns 
+Soraya vegetable 
+197 150 tns 
+Surya Indah 0900 1100 Penang 100 tns 
+Jaya vegetable 
+173 200 tns 
+Permaisuri 0600 0800 T.Priok palm olein 
+1,226 1,500 tns 
+Kota Mulia 2200 2000 P.Klang 139 teus 
+8,533 container 
+Chiangmai 2200 1800 Pukhet palm kernal 
+Navae expeller 
+12,381 9,500 tns 
+3,875 container 
+Fajar 0800 1200 Surabaya 5,500 tns 
+Pasific g.cargo 
+3,441 3,500 tns 
+Caraka Jaya 24-09-96 27-09-96 T.Priok g.cargo 
+N.III-3 1800 1800 Lhokseu- 1,800 tns 
+3,158 mawe g.cargo 
+Tasik Mas 1200 0700 T.Priok 130 tns 
+5,323 container 
+Sapta 0200 2200 Padang 4,000 tns 
+Samudera - 
+TB.PU.1601 24-09-96 29-09-96 Sei Gaung logs 
+victory 1000 1600 Penang vegetables 
+171 150 tns 
+Rimba Lima 2000 1800 T.Bayur 8,076 tns 
+De- 23-09-96 25-09-96 T.Priok container 
+Kasturi 0200 1800 T.Priok 220 teus 
+3,972 contanier 
+3,500 tns 
+Farita 1000 2300 T.Priok 300 tns 
+iron 
+600 tns 
+2,100 tns 
+TB.CB- 23-09-96 27-09-96 Sei- logs 
+Mahaja 2400 2400 T.Priok 1,750 tns 
+tns 
+Tanto Citra 0700 2300 Prawang 5,200 tns 
+-- Jakarta Newsroom + 6221 384-6364 

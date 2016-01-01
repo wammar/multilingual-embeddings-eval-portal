@@ -1,0 +1,4 @@
+the following figures are moving averages calculated as an average of futures settlement prices for the past 10 business days on the Chicago Board of Trade . 
+wheat - cts / Bu Corn - cts / Bu 
+soybeans - cts / Bu 
+soybean Oil - cts / Bu soybean meal - dollars / ton 

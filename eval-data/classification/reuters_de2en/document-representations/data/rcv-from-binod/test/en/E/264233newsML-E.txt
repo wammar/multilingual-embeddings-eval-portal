@@ -1,0 +1,9 @@
+award : 12 / 18 / 1996 
+delivery : 01 / 10 / 1997 ( expected ) 
+initial trade : 12 / 18 / 1996 
+Merrill Lynch &amp; Co . 
+Goldman , Sachs &amp; Co . 
+Morgan Stanley &amp; Co . 
+incorporated 
+Douglas James Securities Inc . 
+--U.S. Municipal Desk , 212-859-1650 

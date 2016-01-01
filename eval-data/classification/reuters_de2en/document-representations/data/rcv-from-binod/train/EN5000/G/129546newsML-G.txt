@@ -1,0 +1,25 @@
+results of Greek first division 
+soccer matches over the weekend : 
+Panathinaikos 4 Edesaikos 1 
+Apollon 0 Olympiakos 3 
+Paniliakos 2 Kastoria 1 
+Veria 4 Panahaiki 0 
+Ionikos 4 Aris 1 
+Iraklis 0 Xanthi 0 
+Standings ( tabulate under games played , won , drawn , lost , 
+goals for , goals against , points ) : 
+Olympiakos 5 4 1 0 12 2 13 
+Paniliakos 5 4 1 0 8 3 13 
+Panathinaikos 5 4 0 1 14 5 12 
+Ionikos 5 3 2 0 7 2 11 
+Panahaiki 5 3 1 1 6 6 10 
+Xanthi 5 2 2 1 7 5 8 
+Veria 5 2 1 2 8 4 7 
+Kalamata 4 1 2 1 3 5 5 
+Aris 5 1 1 3 4 8 4 
+Athinaikos 5 1 1 3 3 7 4 
+Kavala 5 0 3 2 1 3 3 
+Kastoria 5 0 2 3 3 10 2 
+Iraklis 5 0 2 3 1 9 2 
+Edesaikos 5 0 1 4 4 10 1 
+Apollon 5 0 1 4 1 9 1 

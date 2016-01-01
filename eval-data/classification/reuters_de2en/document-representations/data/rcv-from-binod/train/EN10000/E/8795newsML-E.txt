@@ -1,0 +1,7 @@
+U.S. Treasury balances at Federal Reserve based on Treasury Department &apos;s latest budget statement . 
+Aug 21 Aug 20 
+fed acct 5.879 5.500 
+tax / loan note acct 13.080 13.712 
+cash balance 18.954 19.212 
+total public debt , 
+subject to limit 5,118.327 5,116.615 

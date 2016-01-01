@@ -1,0 +1,11 @@
+Avg Oct 31 price fix : 
+Buenos Aires Quequen Rosario Bahia Blanca 
+oats unq unq unq unq 
+wheat 153 143 124 unq 
+maize ( Flint ) 115 119 119 122 
+maize ( dent ) 115 123 120 122 
+sorghum unq unq unq unq 
+Millet unq unq unq unq 
+soybeans unq unq 277 279.9 
+Sunseeds 204 200 207 200 
+-- Buenos Aires Newsroom + 541 318-0655 
