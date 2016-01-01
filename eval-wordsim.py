@@ -46,6 +46,7 @@ def compute_similarities_and_coverage(word_sim_file, word_vecs):
       auto_dict[(word1, word2)] = cosine_sim(word_vecs[word1], word_vecs[word2])
     else:
       not_found += 1
+      print 'not found:', word1, word2
     total_size += 1    
   return (manual_dict, auto_dict, 1.0 - (not_found * 1.0 / total_size))
 
