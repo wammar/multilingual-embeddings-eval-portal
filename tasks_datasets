@@ -1,13 +1,15 @@
-eval-wordsim.py eval-data/wordsim/EN-MC-30 test
-eval-wordsim.py eval-data/wordsim/EN-MTurk-287 dev
-eval-wordsim.py eval-data/wordsim/DE-IT-MWS353 test
-eval-wordsim.py eval-data/wordsim/EN-IT-MWS353 test
-eval-wordsim.py eval-data/wordsim/EN-DE-MWS353 test
-eval-qvec.py eval-data/qvec/dev-en dev
-eval-qvec.py eval-data/qvec/test-en test
-eval-qvec.py eval-data/qvec/dev-da dev
-eval-qvec.py eval-data/qvec/test-da test
-eval-qvec.py eval-data/qvec/dev-it dev
-eval-qvec.py eval-data/qvec/test-it test
-eval-qvec.py eval-data/qvec/dev-en-da-it dev
-eval-qvec.py eval-data/qvec/test-en-da-it test
+eval-wordsim.py eval-data/wordsim/EN-MC-30 test en
+eval-wordsim.py eval-data/wordsim/EN-MTurk-287 dev en
+eval-wordsim.py eval-data/wordsim/DE-IT-MWS353 test de|it
+eval-wordsim.py eval-data/wordsim/EN-IT-MWS353 test en|it
+eval-wordsim.py eval-data/wordsim/EN-DE-MWS353 test en|de
+eval-qvec.py eval-data/qvec/dev-en dev en
+eval-qvec.py eval-data/qvec/test-en test en
+eval-qvec.py eval-data/qvec/dev-da dev da
+eval-qvec.py eval-data/qvec/test-da test da
+eval-qvec.py eval-data/qvec/dev-it dev it
+eval-qvec.py eval-data/qvec/test-it test it
+eval-qvec.py eval-data/qvec/dev-en-da-it dev en|da|it
+eval-qvec.py eval-data/qvec/test-en-da-it test en|da|it
+eval-parse.py eval-data/parsing/ud1.1-dev dev bg|cs|da|de|el|en|es|eu|fa|fi|fr|ga|he|hr|hu|id|it|sv
+eval-parse.py eval-data/parsing/ud1.1-test test bg|cs|da|de|el|en|es|eu|fa|fi|fr|ga|he|hr|hu|id|it|sv

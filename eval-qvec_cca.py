@@ -63,13 +63,14 @@ def qvec_cca_wrapper(in_oracle, in_vectors):
 
   vsm_matrix = ReadVectorMatrix(in_vectors, vocab)
 
-  WriteMatrix(vsm_matrix, "qvec_scripts/X")
-  WriteMatrix(oracle_matrix, "qvec_scripts/Y")
+  WriteMatrix(vsm_matrix, os.path.join(os.path.dirname(__file__), 'qvec_scripts', 'X'))
+  WriteMatrix(oracle_matrix, os.path.join(os.path.dirname(__file__), 'qvec_scripts', 'Y'))
 
   FNULL = open(os.devnull, 'w')
-  subprocess.call(["cd qvec_scripts && rm temp_qvec_cca_result && matlab -nosplash -nodisplay -r \"cca(\'%s\',\'%s\')\"" % ("X", "Y")], shell=True, stdout=FNULL, stderr=subprocess.STDOUT)
+  qvec_scripts_dir = os.path.join(os.path.dirname(__file__), 'qvec_scripts')
+  subprocess.call(["pushd {} && rm temp_qvec_cca_result && matlab -nosplash -nodisplay -r \"cca(\'X\',\'Y\')\"".format(qvec_scripts_dir)], shell=True, stdout=FNULL, stderr=subprocess.STDOUT)
   score_string = ''
-  with open('qvec_scripts/temp_qvec_cca_result', 'r') as score_file:
+  with open(os.path.join(qvec_scripts_dir, 'temp_qvec_cca_result'), 'r') as score_file:
     score_string = score_file.read()
   score = float(score_string)
   return score
