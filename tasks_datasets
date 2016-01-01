@@ -3,6 +3,10 @@ eval-wordsim.py eval-data/wordsim/EN-MTurk-287 dev en
 eval-wordsim.py eval-data/wordsim/DE-IT-MWS353 test de|it
 eval-wordsim.py eval-data/wordsim/EN-IT-MWS353 test en|it
 eval-wordsim.py eval-data/wordsim/EN-DE-MWS353 test en|de
+
+eval-word_translation.py eval-data/word_translation/en-fr-dev dev en|fr
+eval-word_translation.py eval-data/word_translation/en-it-dev dev en|it
+
 eval-qvec.py eval-data/qvec/dev-en dev en
 eval-qvec.py eval-data/qvec/test-en test en
 eval-qvec.py eval-data/qvec/dev-da dev da
@@ -11,5 +15,17 @@ eval-qvec.py eval-data/qvec/dev-it dev it
 eval-qvec.py eval-data/qvec/test-it test it
 eval-qvec.py eval-data/qvec/dev-en-da-it dev en|da|it
 eval-qvec.py eval-data/qvec/test-en-da-it test en|da|it
+
+eval-qvec_cca.py eval-data/qvec/dev-en dev en
+eval-qvec_cca.py eval-data/qvec/test-en test en
+eval-qvec_cca.py eval-data/qvec/dev-da dev da
+eval-qvec_cca.py eval-data/qvec/test-da test da
+eval-qvec_cca.py eval-data/qvec/dev-it dev it
+eval-qvec_cca.py eval-data/qvec/test-it test it
+eval-qvec_cca.py eval-data/qvec/dev-en-da-it dev en|da|it
+eval-qvec_cca.py eval-data/qvec/test-en-da-it test en|da|it
+
 eval-parse.py eval-data/parsing/ud1.1-dev dev bg|cs|da|de|el|en|es|eu|fa|fi|fr|ga|he|hr|hu|id|it|sv
 eval-parse.py eval-data/parsing/ud1.1-test test bg|cs|da|de|el|en|es|eu|fa|fi|fr|ga|he|hr|hu|id|it|sv
+
+eval-classify.py eval-data/classification/reuters_de2en test de|en
