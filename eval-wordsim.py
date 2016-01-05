@@ -46,7 +46,7 @@ def compute_similarities_and_coverage(word_sim_file, word_vecs):
       auto_dict[(word1, word2)] = cosine_sim(word_vecs[word1], word_vecs[word2])
     else:
       not_found += 1
-      print 'not found:', word1, word2
+      #print 'not found:', word1, word2
     total_size += 1    
   return (manual_dict, auto_dict, 1.0 - (not_found * 1.0 / total_size))
 
@@ -55,10 +55,12 @@ def get_wordsim_gold_filename():
 
 def evaluate(eval_data_dir, embeddings_filename):
   eval_data_filename = '{}/{}'.format(eval_data_dir, get_wordsim_gold_filename()) 
-  word_vecs = read_word_vectors(get_relevant_embeddings_filename(eval_data_filename, embeddings_filename))
+  relevant_embeddings_filename = get_relevant_embeddings_filename(eval_data_filename, embeddings_filename)
+  word_vecs = read_word_vectors(relevant_embeddings_filename)
   manual_dict, auto_dict, coverage = compute_similarities_and_coverage(eval_data_filename, word_vecs)
   ranked_manual_dict, ranked_auto_dict = assign_ranks(manual_dict), assign_ranks(auto_dict)
   score = spearmans_rho(ranked_manual_dict, ranked_auto_dict)
+  os.remove(relevant_embeddings_filename)
   return (score, coverage,)
 
 def main(argv):

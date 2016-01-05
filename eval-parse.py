@@ -60,7 +60,7 @@ def parsing_wrapper(train_treebank_filename, test_treebank_filename, embeddings_
   score_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
   train_arcstd_filename = train_treebank_filename + ".arcstd"
   test_arcstd_filename = test_treebank_filename + ".arcstd"
-  training_epochs = 40;
+  training_epochs = 1;
 
   FNULL = open(os.devnull, 'w')
   command = "{} --train --training_data {} --dev_data {} --input_dim 0 ".format(parser_binary, 
@@ -70,10 +70,13 @@ def parsing_wrapper(train_treebank_filename, test_treebank_filename, embeddings_
                                                                                       embeddings_filename, 
                                                                                       score_filename,
                                                                                       training_epochs)
-  subprocess.call([command], shell=True, stdout=FNULL, stderr=subprocess.STDOUT)
+  subprocess.call([command], shell=True, 
+                  #stdout=FNULL, 
+                  stderr=subprocess.STDOUT)
   score_string = ''
   with open(score_filename) as score_file:
     score_string = score_file.read()
+  os.remove(score_filename)
   score = float(score_string)
   return score
 
@@ -85,6 +88,7 @@ def evaluate(eval_data_dir, embeddings_filename):
   assert len(word_vecs) > 0; embeddings_dimensionality = len(word_vecs.itervalues().next())
   coverage = compute_coverage(test_treebank_filename, word_vecs)
   score = parsing_wrapper(train_treebank_filename, test_treebank_filename, relevant_embeddings_filename, embeddings_dimensionality)
+  os.remove(relevant_embeddings_filename)
   return (score, coverage,)
 
 def main(argv):

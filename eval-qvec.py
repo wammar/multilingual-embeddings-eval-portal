@@ -64,7 +64,9 @@ def evaluate(eval_data_dir, embeddings_filename):
   word_vecs = read_word_vectors(relevant_embeddings_filename)
   coverage = compute_coverage(eval_data_filename, word_vecs)
   score = qvec_wrapper(eval_data_filename, relevant_embeddings_filename)
-  return (score, coverage,)
+  os.remove(relevant_embeddings_filename)
+  embedding_size = len(word_vecs[next(iter(word_vecs))])
+  return (score / embedding_size, coverage,)
 
 def main(argv):
   # parse/validate arguments

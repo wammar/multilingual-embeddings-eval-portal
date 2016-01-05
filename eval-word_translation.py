@@ -94,6 +94,7 @@ def evaluate(eval_data_dir, embeddings_filename):
   word_vecs = read_word_vectors(relevant_embeddings_filename)
   coverage = compute_coverage(eval_data_filename, word_vecs)
   score = compute_precision_at_k(relevant_word_pairs, word_vecs, 1)
+  os.remove(relevant_embeddings_filename)
   return (score, coverage,)
 
 def main(argv):

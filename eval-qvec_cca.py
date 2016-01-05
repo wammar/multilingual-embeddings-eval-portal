@@ -63,16 +63,27 @@ def qvec_cca_wrapper(in_oracle, in_vectors):
 
   vsm_matrix = ReadVectorMatrix(in_vectors, vocab)
 
-  WriteMatrix(vsm_matrix, os.path.join(os.path.dirname(__file__), 'qvec_scripts', 'X'))
-  WriteMatrix(oracle_matrix, os.path.join(os.path.dirname(__file__), 'qvec_scripts', 'Y'))
+  vsm_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
+  print 'temporary vsm_filename={}'.format(vsm_filename)
+  WriteMatrix(vsm_matrix, vsm_filename)
+  oracle_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
+  print 'temporary oracle_filename={}'.format(oracle_filename)
+  WriteMatrix(oracle_matrix, oracle_filename)
 
   FNULL = open(os.devnull, 'w')
   qvec_scripts_dir = os.path.join(os.path.dirname(__file__), 'qvec_scripts')
-  subprocess.call(["pushd {} && rm temp_qvec_cca_result && matlab -nosplash -nodisplay -r \"cca(\'X\',\'Y\')\"".format(qvec_scripts_dir)], shell=True, stdout=FNULL, stderr=subprocess.STDOUT)
+  score_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
+  print 'temporary score_filename={}'.format(score_filename)
+  subprocess.call(["cd {} && matlab -nosplash -nodisplay -r \"cca(\'{}\',\'{}\',\'{}\')\"".format(qvec_scripts_dir, os.path.abspath(vsm_filename), os.path.abspath(oracle_filename), os.path.abspath(score_filename))], shell=True, 
+                  #stdout=FNULL, 
+                  stderr=subprocess.STDOUT)
   score_string = ''
-  with open(os.path.join(qvec_scripts_dir, 'temp_qvec_cca_result'), 'r') as score_file:
+  with open(score_filename, 'r') as score_file:
     score_string = score_file.read()
   score = float(score_string)
+  os.remove(vsm_filename)
+  os.remove(oracle_filename)
+  os.remove(score_filename)
   return score
 
 def evaluate(eval_data_dir, embeddings_filename):
@@ -81,6 +92,7 @@ def evaluate(eval_data_dir, embeddings_filename):
   word_vecs = read_word_vectors(relevant_embeddings_filename)
   coverage = compute_coverage(eval_data_filename, word_vecs)
   score = qvec_cca_wrapper(eval_data_filename, relevant_embeddings_filename)
+  os.remove(relevant_embeddings_filename)
   return (score, coverage,)
 
 def main(argv):
