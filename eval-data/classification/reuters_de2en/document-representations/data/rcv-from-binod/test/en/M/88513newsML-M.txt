@@ -1,8 +1,0 @@
-the Chicago Board of Trade reported the following stocks of wheat in Toledo , deliverable against CBOT futures . 
-( in 000 &apos;s Bu ) . 
-soft Red Winter 8,124 6,962 21,743 
-hard Red Winter 0 0 0 
-dark Northern Spring 0 0 0 
-Northern Spring 0 0 0 
-total deliverable Grades 8,124 6,962 21,743 
-Non-Del Grades / Ungraded 3,666 4,779 878 

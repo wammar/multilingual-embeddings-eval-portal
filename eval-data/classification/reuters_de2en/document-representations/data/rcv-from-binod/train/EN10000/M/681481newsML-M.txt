@@ -1,4 +1,0 @@
-following are the latest prices of Indonesian stocks listed in London : 
-stock Latest price ( $ ) 
-Telkom 32.8125 
-Tambang Timah 15.45 

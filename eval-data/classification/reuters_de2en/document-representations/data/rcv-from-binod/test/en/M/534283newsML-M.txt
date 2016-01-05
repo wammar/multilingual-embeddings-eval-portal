@@ -1,6 +1,0 @@
-the New York Stock Exchange said on Thursday that program trading amounted to 13.9 percent of its average daily volume for the week of April 14-18 . 
-the exchange said the trading comprised 66.5 million shares of the 477.0 million average daily volume . 
-it did not give comparative figures . 
-brokerage firms BNP Securities , Natwest , interactive brokers , Lehman Brothers and Morgan Stanley reported the most program activity , it said . 
-in all markets , program trading averaged 89.6 million shares a day for the week , about 74.3 percent of which occurred on the exchange , 16.5 percent in non-U.S. markets and 9.2 percent in other domestic markets , such as the Nasdaq . 
-program trading encompasses a wide range of portfolio-trading strategies involvign the purchase or sale of a basket of at least 15 stocks with a total value of $ 1 million or more , the exchange . 

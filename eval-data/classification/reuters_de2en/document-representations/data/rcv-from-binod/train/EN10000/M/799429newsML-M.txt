@@ -1,7 +1,0 @@
-the Chicago Mercantile Exchange Lean hog Index for the two-day period ending Wednesday , Aug 13 - 
-index 79.24 up 0.03 
-live hog equivalent - 58.64 
-the Chicago Mercantile Exchange fresh pork belly weighted average settlement price for Wednesday , Aug 13 - 
-price 81.83 dn 1.70 
-( source : Chicago Mercantile Exchange ) ) 
-( ( Chicago newsdesk 312 408 8720 ) ) 

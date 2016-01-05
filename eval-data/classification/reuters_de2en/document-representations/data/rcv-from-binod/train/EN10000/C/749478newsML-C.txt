@@ -1,9 +1,0 @@
-Shr $ 0.31 $ 0.28 
-net 2,559 2,299 
-Revs 73,991 44,857 
-Avg shrs 8,299 8,298 
-Shr $ 0.61 $ 0.80 
-net 5,049 6,728 
-Revs 150,584 87,322 
-Avg shrs 8,305 8,443 
-( all data above 000s except per share numbers ) 

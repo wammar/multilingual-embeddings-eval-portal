@@ -1,2 +1,0 @@
-Params: {--model-name=../../data/classifiers/avperc.DE1000_train_valid.de, --epoch-num=10, --train-set=../../data/doc-reprs/train-my-embeddings.DE1000_train_valid.de}
-Params: {--test-set=../../data/doc-reprs/test-my-embeddings.DE1000_train_valid.de, --model-name=../../data/classifiers/avperc.DE1000_train_valid.de}  

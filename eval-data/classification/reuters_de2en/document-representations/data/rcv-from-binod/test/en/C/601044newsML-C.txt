@@ -1,7 +1,0 @@
-Shr loss $ 0.05 loss $ 0.11 
-net loss 644 loss 1,040 
-Revs 117 107 
-Avg shrs 13,986 9,505 
-( all data above 000s except per share numbers ) 
-Q1 1996 net loss is after payment of $ 541,000 in preferred stock dividend . 
-that stock has now been converted to common shares . 

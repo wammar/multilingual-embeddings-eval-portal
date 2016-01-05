@@ -1,3 +1,0 @@
-: LeBoeuf , Lamb , Greene &amp; MacRae , Newark 
-: none 
-year amount coupon Yield Price Conc . 

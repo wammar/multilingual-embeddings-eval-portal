@@ -1,6 +1,0 @@
-area Price trend Country Plants Est Rcpts 
-Georgia steady unq unq 1,500 
-Tennessee steady 54.50-55.50 unq 1,200 
-Kentucky steady-up 0.50 52.50-54.00 55.75-56.25 2,000 
-today &apos;s estimate : 6,300 Last week actual : 5,600 
-previous day actual : 6,200 Year ago actual : 11,900 

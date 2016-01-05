@@ -1,9 +1,0 @@
-today &apos;s estimate 34.0 31,9 105 25 
-yesterday &apos;s actual 33.1 37,5 109 
-yesterday &apos;s estimate 32.0 33.0 105 
-week ago 31.3 33,1 85 24 
-year ago * 28.6 39,8 100 18 
-week to date 169.7 179,2 519 544 
-same period week ago 159.0 163,4 491 515 
-same period year ago 165.2 200,4 536 554 
-* receipts will not compare due to a change in reporting base . 

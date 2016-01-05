@@ -1,3 +1,0 @@
-: McNair Law firm , Columbia 
-: none 
-year amount coupon Yield Price Conc . 

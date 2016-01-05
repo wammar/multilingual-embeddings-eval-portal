@@ -1,8 +1,0 @@
-indicator Period Latest Prev Yr-Ago Yr-Yr 
-exports $ Bln Mar 4.06 4.06 3.95 - 
-imports $ Bln Mar 3.82 3.09 3.47 - 
-m2 y / y in PCT APR 25.7 26.7 30.0 
-M1 y / y in PCT APR 20.5 19.6 20.0 
-Bank loans Rp-Trn Dec 292.00 281.99 234.61 n / a 
-foreign Reserves $ Bln May 20.987 20.382 15.914 n / a 
-* Middle rate 

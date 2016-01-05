@@ -1,9 +1,0 @@
-the following is an updated list of prices of some government of India securities as on July 7 : 
-the data is an extract of the Subsidiary General ledger Account transactions at Reserve Bank of India , Bombay . 
-the following table contains 12 securities in three parts . 
-the first table gives details of the securities for which the data is being provided . 
-description Outstanding Maturity coupon 
-( Rupees million ) 
-( prices in rupees ) 
-date 13.50 1997 13.50 1998 12.00 % 1999 00.00 % 1999 
-high Low High Low High Low High Low 

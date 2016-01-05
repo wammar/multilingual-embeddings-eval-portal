@@ -1,9 +1,0 @@
-Shr loss $ 0.01 loss $ 0.03 
-net loss 237 loss 549 
-Revs 320 380 
-Avg shrs 18,079 15,703 
-Shr loss $ 0.06 loss $ 0.11 
-net loss 1,057 loss 1,714 
-Revs 1,247 1,555 
-Avg shrs 18,079 14,917 
-( all data above 000s except per share numbers ) 

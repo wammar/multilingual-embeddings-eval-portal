@@ -1,1 +1,0 @@
-* NB - The survey estimate is derived by omitting the high and the low forecast and averaging the rest . 

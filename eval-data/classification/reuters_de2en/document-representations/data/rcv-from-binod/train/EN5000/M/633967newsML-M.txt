@@ -1,7 +1,0 @@
-the Chicago Board of Trade reported the following stocks of wheat and corn in St Louis , deliverable against CBOT futures . 
-( in 000 &apos;s bushels ) 
-soft Red Winter 410 402 325 
-total deliverable Grades 410 402 325 
-Non-Del Grades / Ungraded 858 950 2,380 
-total deliverable Grades 751 758 371 
-Non-Del Grades / Ungraded 0 0 0 

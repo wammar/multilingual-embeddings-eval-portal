@@ -1,9 +1,0 @@
-award : 07 / 01 / 1997 
-delivery : 07 / 23 / 1997 ( firm ) 
-initial trade : 07 / 02 / 1997 
-date of execution : 07 / 01 / 1997 
-time of execution : 2 : 25PM Eastern 
-Goldman , Sachs &amp; Co . 
-PaineWebber Incorporated 
-Smith Barney Inc . 
---U.S. Municipal Desk , 212-859-1650 

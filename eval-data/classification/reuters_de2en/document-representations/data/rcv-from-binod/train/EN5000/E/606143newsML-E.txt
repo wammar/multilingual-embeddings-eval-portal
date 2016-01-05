@@ -1,6 +1,0 @@
-the U.S. Labor Department on Thursday released its experimental Consumer Price Index for April . 
-below are percent changes for April for the experimental using geometric and Laspeyres CPIs , and the official current CPI issued last week . 
-all Items 0.1 0.2 0.1 
--Less Food / Energy 0.3 0.2 0.3 
-the geometric formula differs from the official current method because it takes into account consumers &apos; tendency to substitute among similar items . 
-the Laspeyres formula uses the same mathematical base as the current CPI but adds a technical adjustment to make it comparable to the geometric mean index . 

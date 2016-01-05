@@ -1,7 +1,0 @@
-wheat dn 4 3 / 4 cts / Bu Live cattle up 0.400 cts / lb 
-corn up 1 1 / 4 cts / Bu feeders up 0.425 cts / lb 
-oats up 8 1 / 2 cts / Bu Live hogs dn 0.025 cts / lb 
-soybeans up 14 1 / 2 cts / Bu pork bellies up 1.675 cts / lb 
-Soyoil up 0.05 cts / lb 
-soymeal up 5.10 dollar / ton 
-commodity Research Bureau futures Index - Feb 11 

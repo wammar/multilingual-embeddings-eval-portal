@@ -1,6 +1,0 @@
-quarterly 
-latest Prior 
-amount $ 0.11 $ 0.11 
-pay July 30 
-record June 30 
-note : full name of company is First Union Real Estate Investments . 

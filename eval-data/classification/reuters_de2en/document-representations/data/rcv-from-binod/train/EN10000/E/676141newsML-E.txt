@@ -1,3 +1,0 @@
-: ropes &amp; Gray , Boston 
-: State Street Bank &amp; Trust Co . , Boston 
-year amount coupon Yield Price Conc . 

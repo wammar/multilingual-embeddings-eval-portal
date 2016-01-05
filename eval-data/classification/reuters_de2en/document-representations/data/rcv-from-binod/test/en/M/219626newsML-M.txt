@@ -1,4 +1,0 @@
-one yr package beginning November 1 . 
-Canada / U.S. 
-dollar conversion based on Bank of Canada noon rate . 
-one year packages converted to U.S. dollars at a 12-month forward rate . 

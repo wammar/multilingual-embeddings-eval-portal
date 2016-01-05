@@ -1,8 +1,0 @@
-awk '{ print substr($0,3) }' $1 > document-representations/data/embeddings/custom
-cd document-representations/scripts/de2en
-./prepare-data-klement-4cat-train-valid-my-embeddings.ch
-./run-perceptron-train-valid-my-embeddings.ch > ../../../my_en2de.txt
-cd ../../..
-
-echo "(from my_de2en.txt: de2en score is "
-cat my_de2en.txt

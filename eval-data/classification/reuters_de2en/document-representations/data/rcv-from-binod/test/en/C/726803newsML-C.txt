@@ -1,6 +1,0 @@
-monthly 
-latest Prior 
-amount $ 0.07 $ 0.07 
-pay Aug 15 
-record July 31 
-note : full name of company is First Australia Prime Income Fund Inc . 

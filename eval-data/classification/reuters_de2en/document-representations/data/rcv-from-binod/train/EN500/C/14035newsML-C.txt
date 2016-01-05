@@ -1,5 +1,0 @@
-quarterly 
-latest Prior 
-amount $ 0.0496 $ 0.0731 
-pay Sept 13 
-record Sept 5 

@@ -1,3 +1,0 @@
-the following figures are moving averages calculated as an average of futures settlement prices for the past 10 business days on the Chicago Mercantile Exchange . 
-live cattle feeder cattle 
-live hogs pork bellies 

@@ -1,8 +1,0 @@
-base Cost Lean Value hog carcass values for Monday , June 30 -- USDA 
-3-AREA carcass 47-48 % 49-50 % 51-52 % 
-Wght * 1.10-1.19 * 1.00-1.09 * .80-.99 
-week ended : 
-note : * indicates backfat . 
-includes volume , weighted average base cost and average carcass weight for Mid-South , Eastern Cornbelt , and Western Cornbelt based on actual , not estimated , data . 
-the 51-52 PCT values are used to calculate CME Lean hog Value Index . 
-weekly totals include Saturday and / or Sunday data . 

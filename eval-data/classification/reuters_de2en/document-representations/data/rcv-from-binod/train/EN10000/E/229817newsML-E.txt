@@ -1,7 +1,0 @@
-indicator Period Latest Prev Yr-Ago Yr-Yr 
-exports $ Bln Aug 4.32 4.07 3.94 - 
-imports $ Bln Aug 3.38 3.56 3.79 - 
-m2 Rp-Trn Sep 260.20 255.28 206.08 n / a 
-Bank loans Rp-Trn Aug 267.44 264.55 216.77 n / a 
-foreign Reserves $ Bln Oct 16.57 16.41 - n / a 
-* Middle rate 

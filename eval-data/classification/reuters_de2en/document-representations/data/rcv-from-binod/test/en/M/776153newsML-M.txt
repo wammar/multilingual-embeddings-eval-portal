@@ -1,9 +1,0 @@
-following are the most-traded government securities in the week ending August 2 , according to the Bombay research group credence : 
-( week ended Aug 2 , 1997 ) 
-instrument Volume Price Range Yield Range variability 
-RS million # 
-12.59 % GoI 2004 7947.30 104.70-105.93 11.32-11.58 0.38 
-12.14 % GoI 2000 5425.00 104.20-104.52 10.25-10.37 0.63 
-11.83 % GoI 2003 4670.00 101.80-102.92 11.14-11.41 0.14 
-10.85 % GoI 2003 4253.30 100.00-100.85 10.58-10.85 0.05 
-# Standard deviation since August 2 , 1997 

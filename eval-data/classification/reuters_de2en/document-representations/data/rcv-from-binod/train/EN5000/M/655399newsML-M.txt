@@ -1,8 +1,0 @@
-the New York Stock Exchange said Thursday that program trading accounted for an average 14.8 percent , or 70.5 million shares , of average daily volume of 477.5 million shares during June 2-7 .. 
-in the previous week such trading volume accounted for 14.7 percent , or 70.8 million shares , of average daily volume . 
-in all markets program trading averaged 112 million shares per day during the week beginning June 2 . 
-of the five member firms reporting the most program activity on the NYSE , BNP Securities , Natwest , Morgan Stanley , Lehman Brothers , and interactive brokers executed all or most of their program activity for customers . 
-program trades executed by firms for non-member customers totaled 72.3 percent during the week beginning June 2 . 
-such trades executed for their own account amounted to 20.4 percent of trading vloume . 
-in the same week , 20.6 percent of program trading involved index arbitrage , while another 5.1 percent involved derivative product-related strategies . 
-program trading encompasses trading strategies involving the sale of a basket of at least 15 securities with a value of $ 1 million or more . 

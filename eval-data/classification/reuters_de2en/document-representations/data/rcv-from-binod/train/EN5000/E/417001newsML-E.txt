@@ -1,4 +1,0 @@
-foreign reserves $ ( mln ) Oct 243.8 267.1 129.9 
-import Cover ( months ) Oct 5.5 6.0 3.7 
-disc rate ( PCT ) Dec 27 27 50 
-total Govt debt $ ( mln ) 104 51 

@@ -1,8 +1,0 @@
-Shr $ 0.75 $ 0.40 
-net 13,162 6,982 
-sales 134,153 103,110 
-Avg shrs 17,625 17,389 
-Shr primary $ 1.67 $ 0.85 
-net 29,269 14,715 
-sales 361,277 282,383 
-( all data above 000s except per share numbers ) 

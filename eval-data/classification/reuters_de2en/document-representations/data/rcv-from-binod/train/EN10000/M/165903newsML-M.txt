@@ -1,5 +1,0 @@
-Industrials 2683.97 + 29.71 
-utilities 2591.75 + 40.71 
-banks 4145.01 + 122.78 
-portfolio 2834.71 + 39.88 
-volume 18264273 

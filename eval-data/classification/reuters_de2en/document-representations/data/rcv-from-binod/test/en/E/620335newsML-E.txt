@@ -1,2 +1,0 @@
-: David E. Allardice , Inc . , Canandaigua 
-year amount coupon Yield Price Conc . 

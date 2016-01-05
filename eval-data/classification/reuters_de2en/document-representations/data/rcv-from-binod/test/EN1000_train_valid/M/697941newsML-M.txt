@@ -1,9 +1,0 @@
-the following are some main technical indicators for Greek shares based on the close price of June 27 . 
-5-day Moving average 1509.68 
-14-day Moving average 1557.24 
-30-day Moving average 1613.96 
-200-day Moving average 1193.25 
-exponential Moving average ( smoothing factor = 0.2 ) 1533.45 
-exponential Moving average ( smoothing factor = 0.4 ) 1517.94 
-30-day momentum -127.02 
---Dimitris Kontogiannis , Athens Newsroom + 301 3311812-4 

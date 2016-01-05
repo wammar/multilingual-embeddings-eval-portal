@@ -1,7 +1,0 @@
-the Bank of England published the following data on UK monetary aggregates for August - 
-M4 in month ( adjusted ) + 1.0 + 0.9 
-in year to date ( adjusted ) + 9.5 + 9.4 
-M4 in month ( unadjusted ) + 0.9 + 0.7 
-in year to date ( unadjusted ) + 9.5 + 9.3 
-adjusted lending by banks , building 
-societies in billions of stg 5.4 4.8 

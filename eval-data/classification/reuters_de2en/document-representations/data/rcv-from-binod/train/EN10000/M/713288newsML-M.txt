@@ -1,9 +1,0 @@
-today &apos;s estimate 31,0 27,5 100 
-yesterday &apos;s actual 31,5 28,0 100 
-yesterday &apos;s estimate 34,0 27,5 100 
-week ago 31,2 28,2 112 
-year ago 34,8 39,5 97 
-week to date 62,5 55,5 200 
-same period week ago 63,1 65,7 212 
-same period year ago 69,7 78,7 195 
-( ( Chicago newsdesk 312-408-8720 ) ) 
