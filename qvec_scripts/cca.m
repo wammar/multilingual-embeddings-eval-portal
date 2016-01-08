@@ -1,4 +1,7 @@
-function score = cca(X_file, Y_file)
+function score = cca(X_file, Y_file, results_file)
+
+% print input files
+X_file, Y_file, results_file
 
 X = dlmread(X_file);
 Y = dlmread(Y_file);
@@ -10,7 +13,7 @@ Y = normr(Y);
 
 score = mean(r);
 
-%fprintf('QVEC score: %f\n',score);
-fileID = fopen('temp_qvec_cca_result','w');
+fprintf('QVEC score: %f\n',score);
+fileID = fopen(results_file, 'w');
 fprintf(fileID,'%f',score);
 exit

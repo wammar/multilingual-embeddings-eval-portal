@@ -51,14 +51,16 @@ def get_relevant_embeddings_filename(relevant_word_types, embeddings_filename):
 
 def compute_coverage(dictionary_file, word_vecs):
   not_found, total_size = (0, 0)
-  for line in io.open(dictionary_file, encoding='utf8'):
+  for line in io.open(dictionary_file, encoding='utf-8'):
     splits = line.strip().lower().split(' ||| ')
     assert len(splits) == 2
     word1, word2 = splits
     total_size += 1    
     if word1 not in word_vecs or word2 not in word_vecs:
+      #print 'not found:', line
       not_found += 1
   assert total_size > 0
+  #import IPython as ipy; ipy.embed()
   return 1.0 - (not_found * 1.0 / total_size)
 
 def compute_precision_at_k(relevant_word_pairs, word_vecs, precision_at_k):
@@ -66,7 +68,7 @@ def compute_precision_at_k(relevant_word_pairs, word_vecs, precision_at_k):
   total, correct = 0.0, 0.0
   # for each pair in the evaluation dictionary
   for gold_pair in relevant_word_pairs:
-    if gold_pair[0] not in word_vecs or gold_pair[1] not in word_vecs: 
+    if gold_pair[0] not in word_vecs or gold_pair[1] not in word_vecs:
       continue
     gold_src, gold_tgt = gold_pair
     # compute cosine similarity
@@ -83,6 +85,7 @@ def compute_precision_at_k(relevant_word_pairs, word_vecs, precision_at_k):
     total += 1
     if count_of_more_similar_tgts < precision_at_k: correct += 1
 
+  if total == 0: return 0.0
   assert total > 0
   score = correct / total
   return score
