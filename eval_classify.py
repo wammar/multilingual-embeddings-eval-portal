@@ -12,13 +12,16 @@ import subprocess
 import glob
 import IPython as ipy
 
-def copy_relevant_embeddings_only(raw_embeddings_filename, filtered_embeddings_filename, idf_filenames):
+def get_relevant_word_types(idf_filename):
   # find relevant words
   relevant_words = set()
-  for idf_filename in idf_filenames:
-    with open(idf_filename) as idf_file:
-      for line in idf_file:
-        relevant_words.add(line.strip().split('\t')[0])
+  with io.open(idf_filename, encoding='utf8') as idf_file:
+    for line in idf_file:
+      relevant_words.add(line.strip().split('\t')[0])
+  return relevant_words
+
+def copy_relevant_embeddings_only(raw_embeddings_filename, filtered_embeddings_filename, idf_filename):
+  relevant_words = get_relevant_word_types(idf_filename)
 
   covered_words, all_words = 0.0, len(relevant_words)
   # read and write embeddings of relevant words only
@@ -37,7 +40,7 @@ def classification_wrapper(eval_data_dirname, embeddings_filename):
   score_filename = unique_path+'.score'
   embeddings_loc = unique_path+'.embs'
   working_dirname = os.path.abspath(os.path.join(eval_data_dirname, 'document-representations/scripts/X2X'))
-  idf_filenames = [ os.path.abspath(os.path.join(eval_data_dirname, 'document-representations/data/idfs/idf.all'))]
+  idf_filename = os.path.abspath(os.path.join(eval_data_dirname, 'document-representations/data/idfs/idf.all'))
   FNULL = open(os.devnull, 'w')
 
   # copy the embeddings including prefix
