@@ -8,10 +8,10 @@ eval_wordsim.py eval-data/wordsim/de+es.rg65.dev dev de|es [dev]_Cross-lingual_W
 eval_wordsim.py eval-data/wordsim/de+es.rg65.test test de|es [test]_Cross-lingual_Word_Similarity#de+es.rg65.test
 eval_wordsim.py eval-data/wordsim/de+it-mws353-dev dev de|it [dev]_Cross-lingual_Word_Similarity#de+it-mws353-dev
 eval_wordsim.py eval-data/wordsim/de+it-mws353-test test de|it [test]_Cross-lingual_Word_Similarity#de+it-mws353-test
-eval_wordsim.py eval-data/wordsim/en+de-mws353-dev dev de|en [dev]_Cross-lingual_Word_Similarity#de+en-mws353-dev
-eval_wordsim.py eval-data/wordsim/en+de-mws353-test test de|en [test]_Cross-lingual_Word_Similarity#de+en-mws353-test
-eval_wordsim.py eval-data/wordsim/en+de.rg65.dev dev de|en [dev]_Cross-lingual_Word_Similarity#de+en.rg65.dev
-eval_wordsim.py eval-data/wordsim/en+de.rg65.test test de|en [test]_Cross-lingual_Word_Similarity#de+en.rg65.test
+eval_wordsim.py eval-data/wordsim/en+de-mws353-dev dev de|en [dev]_Cross-lingual_Word_Similarity_(MWS)#en+de-mws353-dev
+eval_wordsim.py eval-data/wordsim/en+de-mws353-test test de|en [test]_Cross-lingual_Word_Similarity_(MWS))#en+de-mws353-test
+eval_wordsim.py eval-data/wordsim/en+de.rg65.dev dev de|en [dev]_Cross-lingual_Word_Similarity_(RG)#en+de.rg65.dev
+eval_wordsim.py eval-data/wordsim/en+de.rg65.test test de|en [test]_Cross-lingual_Word_Similarity_(RG)#en+de.rg65.test
 eval_wordsim.py eval-data/wordsim/en+es.rg65.dev dev en|es [dev]_Cross-lingual_Word_Similarity#en+es.rg65.dev
 eval_wordsim.py eval-data/wordsim/en+es.rg65.test test en|es [test]_Cross-lingual_Word_Similarity#en+es.rg65.test
 eval_wordsim.py eval-data/wordsim/en+fr.rg65.dev dev en|fr [dev]_Cross-lingual_Word_Similarity#en+fr.rg65.dev
@@ -26,7 +26,7 @@ eval_wordsim.py eval-data/wordsim/fr+es.rg65.test test fr|es [test]_Cross-lingua
 # word translation
 eval_translate.py eval-data/word_translation/wiktionary.da+en+it.dev dev da|en|it [dev]_Word_Translation#wiktionary.da+en+it.dev
 eval_translate.py eval-data/word_translation/wiktionary.da+en+it.test test da|en|it [test]_Word_Translation#wiktionary.da+en+it.test
-eval_translate.py eval-data/word_translation/wiktionary.bg+cs+da+de+el+en+es+fi+fr+hu+it+sv.dev dev bg|cs|da|de|el|en|es|fi|fr|hu|it|sv [dev]_Word_Translation#wiktionary.bg+cs+da+de+el+en+es+fi+fr+hu+it+sv.dev [dev]_Word_Translation#wiktionary.bg+cs+da+de+el+en+es+fi+fr+hu+it+sv.dev
+eval_translate.py eval-data/word_translation/wiktionary.bg+cs+da+de+el+en+es+fi+fr+hu+it+sv.dev dev bg|cs|da|de|el|en|es|fi|fr|hu|it|sv [dev]_Word_Translation#wiktionary.bg+cs+da+de+el+en+es+fi+fr+hu+it+sv.dev
 eval_translate.py eval-data/word_translation/wiktionary.bg+cs+da+de+el+en+es+fi+fr+hu+it+sv.test test bg|cs|da|de|el|en|es|fi|fr|hu|it|sv [test]_Word_Translation#wiktionary.bg+cs+da+de+el+en+es+fi+fr+hu+it+sv.test
 eval_translate.py eval-data/word_translation/wiktionary.fifty_nine.dev dev bg|cs|da|de|el|en|es|fi|fr|hu|it|sv|zh|af|ca|iw|cy|ar|ga|zu|et|gl|id|ru|nl|pt|la|tr|ne|lv|lt|tg|ro|is|pl|yi|be|hy|hr|jw|ka|ht|fa|mi|bs|ja|mg|tl|ms|uz|kk|sr|mn|ko|mk|so|uk|sl|sw [dev]_Word_Translation#wiktionary.fifty_nine.dev
 eval_translate.py eval-data/word_translation/wiktionary.fifty_nine.test test bg|cs|da|de|el|en|es|fi|fr|hu|it|sv|zh|af|ca|iw|cy|ar|ga|zu|et|gl|id|ru|nl|pt|la|tr|ne|lv|lt|tg|ro|is|pl|yi|be|hy|hr|jw|ka|ht|fa|mi|bs|ja|mg|tl|ms|uz|kk|sr|mn|ko|mk|so|uk|sl|sw [test]_Word_Translation#wiktionary.fifty_nine.test

@@ -44,7 +44,7 @@ def classification_wrapper(eval_data_dirname, embeddings_filename):
   FNULL = open(os.devnull, 'w')
 
   # copy the embeddings including prefix
-  coverage = copy_relevant_embeddings_only(embeddings_filename, embeddings_loc, idf_filenames)
+  coverage = copy_relevant_embeddings_only(embeddings_filename, embeddings_loc, idf_filename)
 
   # prepare data
   command = "cd {} && ./prepare-data-1000-multi.ch all all {}".format(working_dirname, os.path.abspath(unique_path))
