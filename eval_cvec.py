@@ -8,8 +8,7 @@ import os
 import sys
 from read_write import read_word_vectors
 from read_write import gzopen
-from qvec_scripts.qvec import OracleMatrix, VectorMatrix, AlignColumns
-from qvec_scripts.qvec_cca import GetVocab, ReadOracleMatrix, ReadVectorMatrix, WriteMatrix
+from qvec_scripts.qvec_cca import ComputeCCA, GetVocab, ReadOracleMatrix, ReadVectorMatrix
 import subprocess
 
 def get_qvec_gold_filename():
@@ -54,36 +53,12 @@ def qvec_cca_wrapper(in_oracle, in_vectors):
   oracle_files = [in_oracle]
   vocab_oracle = GetVocab(oracle_files, vocab_union=True)
   vocab_vectors = GetVocab([in_vectors])
-  vocab = sorted(set(vocab_vectors) & set(vocab_oracle))
+  vocab = set(vocab_vectors) & set(vocab_oracle)
   
-  column_names, tmp_matrix = None, None
-  for filename in oracle_files:
-    oracle_matrix, column_names, tmp_matrix = ReadOracleMatrix(
-         filename, vocab, column_names, tmp_matrix)
-
+  oracle_matrix = ReadOracleMatrix(oracle_files, vocab)
   vsm_matrix = ReadVectorMatrix(in_vectors, vocab)
 
-  vsm_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
-  print 'temporary vsm_filename={}'.format(vsm_filename)
-  WriteMatrix(vsm_matrix, vsm_filename)
-  oracle_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
-  print 'temporary oracle_filename={}'.format(oracle_filename)
-  WriteMatrix(oracle_matrix, oracle_filename)
-
-  FNULL = open(os.devnull, 'w')
-  qvec_scripts_dir = os.path.join(os.path.dirname(__file__), 'qvec_scripts')
-  score_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
-  print 'temporary score_filename={}'.format(score_filename)
-  subprocess.call(["cd {} && matlab -nosplash -nodisplay -r \"cca(\'{}\',\'{}\',\'{}\')\"".format(qvec_scripts_dir, os.path.abspath(vsm_filename), os.path.abspath(oracle_filename), os.path.abspath(score_filename))], shell=True, 
-                  #stdout=FNULL, 
-                  stderr=subprocess.STDOUT)
-  score_string = ''
-  with open(score_filename, 'r') as score_file:
-    score_string = score_file.read()
-  score = float(score_string)
-  os.remove(vsm_filename)
-  os.remove(oracle_filename)
-  os.remove(score_filename)
+  score = ComputeCCA(vsm_matrix, oracle_matrix)
   return score
 
 def evaluate(eval_data_dir, embeddings_filename):

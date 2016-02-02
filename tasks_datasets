@@ -9,7 +9,7 @@ eval_wordsim.py eval-data/wordsim/de+es.rg65.test test de|es [test]_Cross-lingua
 eval_wordsim.py eval-data/wordsim/de+it-mws353-dev dev de|it [dev]_Cross-lingual_Word_Similarity#de+it-mws353-dev
 eval_wordsim.py eval-data/wordsim/de+it-mws353-test test de|it [test]_Cross-lingual_Word_Similarity#de+it-mws353-test
 eval_wordsim.py eval-data/wordsim/en+de-mws353-dev dev de|en [dev]_Cross-lingual_Word_Similarity_(MWS)#en+de-mws353-dev
-eval_wordsim.py eval-data/wordsim/en+de-mws353-test test de|en [test]_Cross-lingual_Word_Similarity_(MWS))#en+de-mws353-test
+eval_wordsim.py eval-data/wordsim/en+de-mws353-test test de|en [test]_Cross-lingual_Word_Similarity_(MWS)#en+de-mws353-test
 eval_wordsim.py eval-data/wordsim/en+de.rg65.dev dev de|en [dev]_Cross-lingual_Word_Similarity_(RG)#en+de.rg65.dev
 eval_wordsim.py eval-data/wordsim/en+de.rg65.test test de|en [test]_Cross-lingual_Word_Similarity_(RG)#en+de.rg65.test
 eval_wordsim.py eval-data/wordsim/en+es.rg65.dev dev en|es [dev]_Cross-lingual_Word_Similarity#en+es.rg65.dev
@@ -33,11 +33,11 @@ eval_translate.py eval-data/word_translation/wiktionary.fifty_nine.test test bg|
 eval_translate.py eval-data/word_translation/google.fifty_nine.dev dev bg|cs|da|de|el|en|es|fi|fr|hu|it|sv|zh|af|ca|iw|cy|ar|ga|zu|et|gl|id|ru|nl|pt|la|tr|ne|lv|lt|tg|ro|is|pl|yi|be|hy|hr|jw|ka|ht|fa|mi|bs|ja|mg|tl|ms|uz|kk|sr|mn|ko|mk|so|uk|sl|sw [dev]_Word_Translation#google.fifty_nine.dev
 eval_translate.py eval-data/word_translation/google.fifty_nine.test test bg|cs|da|de|el|en|es|fi|fr|hu|it|sv|zh|af|ca|iw|cy|ar|ga|zu|et|gl|id|ru|nl|pt|la|tr|ne|lv|lt|tg|ro|is|pl|yi|be|hy|hr|jw|ka|ht|fa|mi|bs|ja|mg|tl|ms|uz|kk|sr|mn|ko|mk|so|uk|sl|sw [test]_Word_Translation#google.fifty_nine.test
 
-# (multi)CVEC tasks
-eval_cvec.py eval-data/qvec/test-en test en [test]_Monolingual_CVEC#test-en
-eval_cvec.py eval-data/qvec/dev-en dev en [dev]_Monolingual_CVEC#dev-en
-eval_cvec.py eval-data/qvec/test-en-da-it test da|en|it [test]_MultiCVEC#test-en-da-it
-eval_cvec.py eval-data/qvec/dev-en-da-it dev da|en|it [dev]_MultiCVEC#dev-en-da-it
+# (multi)QVEC+ tasks
+eval_cvec.py eval-data/qvec/test-en test en [test]_Monolingual_QVEC+#test-en
+eval_cvec.py eval-data/qvec/dev-en dev en [dev]_Monolingual_QVEC+#dev-en
+eval_cvec.py eval-data/qvec/test-en-da-it test da|en|it [test]_MultiQVEC+#test-en-da-it
+eval_cvec.py eval-data/qvec/dev-en-da-it dev da|en|it [dev]_MultiQVEC+#dev-en-da-it
 
 # (multi)QVEC tasks
 eval_qvec.py eval-data/qvec/test-en test en [test]_Monolingual_QVEC#test-en

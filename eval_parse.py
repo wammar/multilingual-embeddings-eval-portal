@@ -16,6 +16,12 @@ def get_test_treebank_filename():
 def get_train_treebank_filename():
   return 'train_treebank'
 
+def get_test_arcstd_filename():
+  return 'test_treebank.arcstd'
+
+def get_train_arcstd_filename():
+  return 'train_treebank.arcstd'
+
 def get_relevant_word_types(test_treebank_filename, train_treebank_filename):
   relevant_word_types = set()
   for treebank_filename in [train_treebank_filename, test_treebank_filename]:
@@ -55,12 +61,15 @@ def compute_coverage(test_treebank_filename, word_vecs):
   assert total_size > 0
   return 1.0 - (not_found * 1.0 / total_size)
 
-def parsing_wrapper(train_treebank_filename, test_treebank_filename, embeddings_filename, embeddings_dimensionality):
+def parsing_wrapper(train_arcstd_filename, test_arcstd_filename, embeddings_filename, embeddings_dimensionality):
   parser_binary = os.path.join(os.path.dirname(__file__), 'parsing_scripts', 'lstm-parse')
   score_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
-  train_arcstd_filename = train_treebank_filename + ".arcstd"
-  test_arcstd_filename = test_treebank_filename + ".arcstd"
   training_epochs = 1;
+
+  print 'embeddings_filename used for the parser: ', embeddings_filename
+  print 'embeddings_dimensionality: ', embeddings_dimensionality
+  print 'train_arcstd_filename: ', train_arcstd_filename
+  print 'test_arcstd_filename: ', test_arcstd_filename
 
   FNULL = open(os.devnull, 'w')
   command = "{} --train --training_data {} --dev_data {} --input_dim 0 ".format(parser_binary, 
@@ -83,11 +92,16 @@ def parsing_wrapper(train_treebank_filename, test_treebank_filename, embeddings_
 def evaluate(eval_data_dir, embeddings_filename):
   test_treebank_filename = '{}/{}'.format(eval_data_dir, get_test_treebank_filename())
   train_treebank_filename = '{}/{}'.format(eval_data_dir, get_train_treebank_filename())
+  test_arcstd_filename = '{}/{}'.format(eval_data_dir, get_test_arcstd_filename())
+  train_arcstd_filename = '{}/{}'.format(eval_data_dir, get_train_arcstd_filename())
   relevant_embeddings_filename = get_relevant_embeddings_filename(test_treebank_filename, train_treebank_filename, embeddings_filename)
   word_vecs = read_word_vectors(relevant_embeddings_filename)
   assert len(word_vecs) > 0; embeddings_dimensionality = len(word_vecs.itervalues().next())
   coverage = compute_coverage(test_treebank_filename, word_vecs)
-  score = parsing_wrapper(train_treebank_filename, test_treebank_filename, relevant_embeddings_filename, embeddings_dimensionality)
+  if coverage == 0: 
+    print 'coverage = 0!!'
+    return (0.0, 0.0)
+  score = parsing_wrapper(train_arcstd_filename, test_arcstd_filename, relevant_embeddings_filename, embeddings_dimensionality)
   os.remove(relevant_embeddings_filename)
   return (score, coverage,)
 
