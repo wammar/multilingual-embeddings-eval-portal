@@ -1,21 +1,16 @@
 #!/usr/bin/env python
 
-import gzip
 import argparse
 import random
-import io
 import os
 import sys
 from read_write import read_word_vectors
 from read_write import gzopen
 from wordsim_scripts.ranking import *
 
-def gzopen(f):
-  return gzip.open(f) if f.endswith('.gz') else open(f)
-
 def get_relevant_word_types(eval_data_filename):
   relevant_word_types = set()
-  with io.open(eval_data_filename, encoding='utf8') as eval_data_file:
+  with open(eval_data_filename) as eval_data_file:
     for line in eval_data_file:
       word1, word2, similarity = line.strip().split('\t')
       relevant_word_types.add(word1)
@@ -24,21 +19,20 @@ def get_relevant_word_types(eval_data_filename):
 
 def get_relevant_embeddings_filename(eval_data_filename, embeddings_filename):
   # We only need embeddings for a subset of word types. Copy the relevant embeddings in a new plain file.
+  if not os.path.isdir('temp'): os.mkdir('temp')
   relevant_embeddings_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
   relevant_word_types = set(get_relevant_word_types(eval_data_filename))
   with gzopen(embeddings_filename) as all_embeddings_file:
     with open(relevant_embeddings_filename, mode='w') as relevant_embeddings_file:
       for line in all_embeddings_file:
-        line = line.decode('utf8')
         if line.split(' ')[0] not in relevant_word_types: continue
-        line = line.encode('utf8')
         relevant_embeddings_file.write(line)
   return relevant_embeddings_filename
 
 def compute_similarities_and_coverage(word_sim_file, word_vecs):
   manual_dict, auto_dict = ({}, {})
   not_found, total_size = (0, 0)
-  for line in io.open(word_sim_file, encoding='utf8'):
+  for line in open(word_sim_file):
     line = line.strip().lower()
     word1, word2, val = line.strip().split('\t')
     if word1 in word_vecs and word2 in word_vecs:

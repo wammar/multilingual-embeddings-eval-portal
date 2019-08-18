@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-import gzip
 import argparse
 import random
-import io
 import os
 import sys
 from read_write import read_word_vectors
@@ -16,7 +14,7 @@ def get_qvec_gold_filename():
 
 def get_relevant_word_types(eval_data_filename):
   relevant_word_types = set()
-  with io.open(eval_data_filename, encoding='utf8') as eval_data_file:
+  with open(eval_data_filename) as eval_data_file:
     for line in eval_data_file:
       splits = line.strip().split('\t')
       assert len(splits) > 0
@@ -26,20 +24,19 @@ def get_relevant_word_types(eval_data_filename):
 
 def get_relevant_embeddings_filename(eval_data_filename, embeddings_filename):
   # We only need embeddings for a subset of word types. Copy the relevant embeddings in a new plain file.
+  if not os.path.isdir('temp'): os.mkdir('temp')
   relevant_embeddings_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
   relevant_word_types = set(get_relevant_word_types(eval_data_filename))
   with gzopen(embeddings_filename) as all_embeddings_file:
     with open(relevant_embeddings_filename, mode='w') as relevant_embeddings_file:
       for line in all_embeddings_file:
-        line = line.decode('utf8')
         if line.split(' ')[0] not in relevant_word_types: continue
-        line = line.encode('utf8')
         relevant_embeddings_file.write(line)
   return relevant_embeddings_filename
 
 def compute_coverage(semantic_classes_file, word_vecs):
   not_found, total_size = (0, 0)
-  for line in io.open(semantic_classes_file, encoding='utf8'):
+  for line in open(semantic_classes_file):
     splits = line.strip().lower().split('\t')
     assert len(splits) > 0
     word = splits[0]

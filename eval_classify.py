@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-import gzip
 import argparse
 import random
-import io
 import os
 import sys
 from read_write import read_word_vectors
@@ -15,7 +13,7 @@ import IPython as ipy
 def get_relevant_word_types(idf_filename):
   # find relevant words
   relevant_words = set()
-  with io.open(idf_filename, encoding='utf8') as idf_file:
+  with open(idf_filename) as idf_file:
     for line in idf_file:
       relevant_words.add(line.strip().split('\t')[0])
   return relevant_words
@@ -25,7 +23,7 @@ def copy_relevant_embeddings_only(raw_embeddings_filename, filtered_embeddings_f
 
   covered_words, all_words = 0.0, len(relevant_words)
   # read and write embeddings of relevant words only
-  with io.open(raw_embeddings_filename, encoding='utf8') as raw_embeddings_file, io.open(filtered_embeddings_filename, encoding='utf8', mode='w') as filtered_embeddings_file:
+  with open(raw_embeddings_filename) as raw_embeddings_file, open(filtered_embeddings_filename, mode='w') as filtered_embeddings_file:
     for line in raw_embeddings_file:
       word = line.split(' ')[0]
       if word not in relevant_words: continue
@@ -36,6 +34,7 @@ def copy_relevant_embeddings_only(raw_embeddings_filename, filtered_embeddings_f
   return covered_words / all_words
 
 def classification_wrapper(eval_data_dirname, embeddings_filename):
+  if not os.path.isdir('temp'): os.mkdir('temp')
   unique_path = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
   score_filename = unique_path+'.score'
   embeddings_loc = unique_path+'.embs'
