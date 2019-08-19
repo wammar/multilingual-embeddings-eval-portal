@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 
-import gzip
 import argparse
 import random
-import io
 import os
 import sys
 from read_write import read_word_vectors
@@ -25,7 +23,7 @@ def get_train_arcstd_filename():
 def get_relevant_word_types(test_treebank_filename, train_treebank_filename):
   relevant_word_types = set()
   for treebank_filename in [train_treebank_filename, test_treebank_filename]:
-    with io.open(treebank_filename, encoding='utf8') as treebank_file:
+    with open(treebank_filename) as treebank_file:
       for line in treebank_file:
         line = line.strip()
         if len(line) == 0: continue
@@ -37,20 +35,19 @@ def get_relevant_word_types(test_treebank_filename, train_treebank_filename):
 
 def get_relevant_embeddings_filename(test_treebank_filename, train_treebank_filename, embeddings_filename):
   # We only need embeddings for a subset of word types. Copy the relevant embeddings in a new plain file.
+  if not os.path.isdir('temp'): os.mkdir('temp')
   relevant_embeddings_filename = os.path.join(os.path.dirname(__file__), 'temp', str(random.randint(100000, 999999)))
   relevant_word_types = set(get_relevant_word_types(test_treebank_filename, train_treebank_filename))
   with gzopen(embeddings_filename) as all_embeddings_file:
     with open(relevant_embeddings_filename, mode='w') as relevant_embeddings_file:
       for line in all_embeddings_file:
-        line = line.decode('utf8')
         if line.split(' ')[0] not in relevant_word_types: continue
-        line = line.encode('utf8')
         relevant_embeddings_file.write(line)
   return relevant_embeddings_filename
 
 def compute_coverage(test_treebank_filename, word_vecs):
   not_found, total_size = (0, 0)
-  with io.open(test_treebank_filename, encoding='utf8') as test_treebank_file:
+  with open(test_treebank_filename) as test_treebank_file:
     for line in test_treebank_file:
       splits = line.strip().lower().split('\t')
       if len(splits) < 2: continue
